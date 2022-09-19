@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
         
-![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon.png)[Cosmos Ecosystem](./CosmosEcosystem) 
+   ![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon.png)[Cosmos Ecosystem](./CosmosEcosystem) 
 
 
 ![Binance Ecosystem](https://latinumfinance.github.io/assets/images/binanceecosystemicon.png)[Binance Ecosystem](./CosmosEcosystem).
