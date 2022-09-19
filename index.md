@@ -3,8 +3,8 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Cosmos Ecosystem](./CosmosEcosystem) ![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon.png)        
+        ![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon.png)
+[Cosmos Ecosystem](./CosmosEcosystem)        
 [Binance Ecosystem](./CosmosEcosystem).
 
 There should be whitespace between paragraphs.
