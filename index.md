@@ -7,7 +7,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 ![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png)[Cosmos Ecosystem](./CosmosEcosystem) 
 
 
-![Binance Ecosystem](https://latinumfinance.github.io/assets/images/binanceicon2.png)[Binance Ecosystem](./CosmosEcosystem)
+![Binance Ecosystem](https://latinumfinance.github.io/assets/images/binanceecosystemicon2.png)[Binance Ecosystem](./CosmosEcosystem)
 
 
 ![Polygon Ecosystem](https://latinumfinance.github.io/assets/images/binanceecosystemicon.png)[Binance Ecosystem](./CosmosEcosystem)
