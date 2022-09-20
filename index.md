@@ -18,7 +18,7 @@ Latinum Finance allows you to earn passive income on your current cryptocurrency
 and  securing the network. To incentivize staking, the network generates rewards and pays them out to stakers. Staking is the best option for customers looking
 to earn passive rewards on their crypto assets! More information about staking and rewards here: [Staking Rewards System](./CosmosEcosystem)  
 
-## How to Get Started
+## Registering a Ecosystem
 
 > Step 1: Registering a Ecosystem
 > 
@@ -32,19 +32,21 @@ to earn passive rewards on their crypto assets! More information about staking a
 
 `Click the "Make a Ecosystem" tab in Discord and send the requested information.(name of ecosystem, wallet address's, etc...)` 
 
->Step 3:
+## Building your Ecosystem
+
+>Step 1:
 >
 
-`Carefully plan and purchase your Ecosystem **using the same wallet address's used to register your ecosystem**`
+`Plan and purchase the planets for your Ecosystem **using the same wallet address's used to register your ecosystem**`
 
-`Orders recieved that differ from the amount total or do not match any registered wallet adresses will be sent back to the same address less the gas cost used.`
+`_Orders recieved that differ from the amount total or do not match any registered wallet adresses will be sent back to the same address less the gas cost used_`
 
->Step 3:
+>Step 2:
 >
 
-`View your Ecosystem and totals by going to latinumfinance.github.io/YOUR*REGISTERED*ETH*WALLET*ADDRESS 
+`View your Ecosystem and totals by going to latinumfinance.github.io/Your_Registered_ETH_Wallet_Address` 
 
-### Making a Ecosystem
+## Building your Ecosystem
 
 > Step 1:
 > 
