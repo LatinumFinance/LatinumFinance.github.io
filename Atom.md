@@ -2,17 +2,22 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Cosmos ATOM
 
-[Link to another page](./another-page.html).
+![ATOM PRODUCT](https://latinumfinance.github.io/assets/images/cosmosatomplanetborder.png)
 
-[back](./)
 
-There should be whitespace between paragraphs.
+> Availability : `Out of Stock`
+>
+> Total : `116`
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# The Cosmos Ecosystem
+```
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
@@ -69,6 +74,13 @@ end
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
+
+
+Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+
+[Link to another page](./another-page.html).
+
+[back](./)
 
 
 
