@@ -10,7 +10,7 @@ layout: default
 ![Binance Ecosystem](https://latinumfinance.github.io/assets/images/binanceecosystemicon2.png)[Binance Ecosystem](./CosmosEcosystem)
 
 
-![Polygon Ecosystem](https://latinumfinance.github.io/assets/images/polygonicon.png)[Binance Ecosystem](./CosmosEcosystem)
+![Polygon Ecosystem](https://latinumfinance.github.io/assets/images/polygonicon.png)[Polygon Ecosystem](./CosmosEcosystem)
 
 
 # Latinum Finance
@@ -23,6 +23,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 > 
 
 `Join the Discord Server`
+
 `Discord Server : 987987987`
 
 >Step 2:
@@ -34,6 +35,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 
 `Carefully plan and purchase your Ecosystem **using the same wallet address's used to register your ecosystem**`
+
 `Orders recieved that differ from the amount total or do not match any registered wallet adresses will be sent back to the same address less the gas cost used.`
 
 >Step 3:
