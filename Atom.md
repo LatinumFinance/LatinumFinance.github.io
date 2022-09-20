@@ -4,7 +4,7 @@ layout: default
 
 # Cosmos ATOM
 
-![ATOM PRODUCT](https://latinumfinance.github.io/assets/images/cosmosatomplanetborder2.png)
+![ATOM PRODUCT10](https://latinumfinance.github.io/assets/images/cosmosatomplanetborder2.png)
 
 
 
@@ -19,7 +19,7 @@ layout: default
 > Total Sold : `116`
 
 
-![ATOM PRODUCT](https://latinumfinance.github.io/assets/images/cosmosatomplanetborder2.png)
+![ATOM PRODUCT20](https://latinumfinance.github.io/assets/images/cosmosatomplanetborder20.png)
 
 
 
