@@ -33,7 +33,6 @@ layout: default
 >
 > Total Sold : `25`
 
-(./)
 
 
 
@@ -43,7 +42,7 @@ layout: default
 
 
 
-[back](./)
+[Go Back](./)
 
 
 
