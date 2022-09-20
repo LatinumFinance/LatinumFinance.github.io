@@ -2,7 +2,6 @@
 layout: default
 ---
 
-# Crypto Ecosystems
         
 ![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png)[Cosmos Ecosystem](./CosmosEcosystem) 
 
@@ -15,7 +14,7 @@ layout: default
 
 # Latinum Finance
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+        Latinum Finance allows you to earn passive income on your current cryptocurrency holdings. When you stake crypto, your assets go towards verifying transactions and  securing the network. To incentivize staking, the network generates rewards and pays them out to stakers. Staking is the best option for customers looking to earn passive rewards on their crypto assets! More information about staking and rewards here: [Staking Rewards System](./CosmosEcosystem)  
 
 ## How to Get Started
 
