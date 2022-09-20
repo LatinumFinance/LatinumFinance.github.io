@@ -25,7 +25,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 |    Token:    |       APY:        | Size (10 Tokens) |
 |:-------------|:------------------|:-----------------|
-|     ATOM     |       10%         |     In Stock     |
+|    ![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png)[ATOM](./CosmosEcosystem)     |       10%         |     In Stock     |
 |     CRO      |       10%         |     In Stock     |
 |    [CRO](./another-page.html)|       10%         |     In Stock     |
 
