@@ -85,13 +85,11 @@ Click the `"Unstake a Ecosystem"` tab in Discord and send the requested informat
 
 Congratulations! The unstaking process has begun! Now just wait for your tokens to arrive in your registered wallet once the unstaking process has completed.
 
-**Remember you must wait the full duration of the unstaking wait period!**
+**REMEMBER YOU MUST WAIT THE FULL DURATION OF THE UNSTAKING WAIT PERIOD!**
 
-You can check the status of your Unstaking period here: [Maybe I can ?](./CosmosEcosystem) 
+`ALL ASSETS HAVE DIFFERENT UNSTAKING WAIT PERIODS! WE ARE UNABLE TO EXPEDITE THIS PROCESS! YOU MUST WAIT THE FULL DURATION OF THE UNSTAKING WAIT PERIOD!` 
 
-`ALL ASSETS HAVE DIFFERENT UNSTAKING WAIT PERIODS! WE ARE UNABLE TO EXPEDITE THIS PROCESS! YOU MUST WAIT THE FULL DURATION OF THE UNSTAKING WAIT PERIOD! 
-
-
+You can check the status of your Unstaking period here: [Maybe I can ?](./CosmosEcosystem)
 
 ## Find My Ecosystem
 
