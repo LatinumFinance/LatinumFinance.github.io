@@ -37,14 +37,35 @@ to earn passive rewards on their crypto assets! More information about staking a
 >Step 1:
 >
 
-`Plan and purchase the planets for your Ecosystem **using the same wallet address's used to register your ecosystem**`
+`Plan and purchase the planets for your Ecosystem` 
 
-`_Orders recieved that differ from the amount total or do not match any registered wallet adresses will be sent back to the same address less the gas cost used_`
+`*USE THE SAME WALLET ADDRESS USED TO REGISTER YOUR ECOSYSTEM*`
+
+`*Orders recieved that differ from the amount total or do not match any registered wallet adresses will be sent back to the same address less the gas cost used*`
 
 >Step 2:
 >
 
-`View your Ecosystem and totals by going to latinumfinance.github.io/Your_Registered_ETH_Wallet_Address` 
+`Choose your favorite crypto ecosystem and token that you plan to stake in order to purchase a planet for your crypto ecosystem`
+
+>Step 3:
+>
+
+`Locate that token on the Latinum Finance website to double check the availability, network used, wallet address and required token quantity`
+
+>Step 4:
+>
+
+`Purchase a planet for your crypto ecosystem by sending the exact amount of tokens to the listed wallet address to be staked for passive income rewards!`
+
+`*MAKE SURE YOU SEND YOUR TOKENS USING THE CORRECT WALLET ADDRESS AND NETWORK! FUNDS SENT TO THE WRONG ADDRESS OR NETWORK CAN NOT BE RECOVERED*`
+
+`*All STAKED TOKENS CAN BE UNSTAKED AT ANY TIME BUT REQUIRE A 3 DAY UNSTAKING PERIOD* Find out more about unstaking your assets here: [Unstaking my Assests](./CosmosEcosystem)` 
+
+>Step 5:
+>
+
+`View your Ecosystem and totals by going to latinumfinance.github.io/Your_Registered_ETH_Wallet_Address`
 
 ## Building your Ecosystem
 
