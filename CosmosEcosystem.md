@@ -20,8 +20,14 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 
 `ATOM`
+</a>
 `APY: 10%`
 
+|    Token:    |       APY:        | Size (10 Tokens) |
+|:-------------|:------------------|:-----------------|
+|     ATOM     |       10%         |     In Stock     |
+|     CRO      |       10%         |     In Stock     |
+|    [CRO](./another-page.html)|       10%         |     In Stock     |
 
 > This is a blockquote following a header.
 >
