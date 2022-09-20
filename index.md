@@ -58,7 +58,9 @@ Purchase a planet for your crypto ecosystem by sending the exact amount of token
 
 _*Orders recieved that differ from the amount total or do not match any registered wallet adresses will be sent back to the same address less the gas cost used*_
 
-`*All STAKED TOKENS CAN BE UNSTAKED AT ANY TIME BUT REQUIRE CERTAIN UNSTAKING TIME PERIODS* Find out more about unstaking your assets here: [Unstaking my Assests](./CosmosEcosystem)` 
+`*All STAKED TOKENS CAN BE UNSTAKED AT ANY TIME BUT REQUIRE CERTAIN UNSTAKING TIME PERIODS*` 
+
+Find out more about unstaking your assets here: [Unstaking my Assests](./CosmosEcosystem) 
 
 >Step 5:
 >
@@ -82,7 +84,9 @@ Click the `"Unstake a Ecosystem"` tab in Discord and send the requested informat
 >
 
 Congratulations! The unstaking process has begun! Now just wait for your tokens to arrive in your registered wallet once the unstaking process has completed.
+
 **Remember you must wait the full duration of the unstaking wait period!**
+
 You can check the status of your Unstaking period here: [Maybe I can ?](./CosmosEcosystem) 
 
 `ALL ASSETS HAVE DIFFERENT UNSTAKING WAIT PERIODS! WE ARE UNABLE TO EXPEDITE THIS PROCESS! YOU MUST WAIT THE FULL DURATION OF THE UNSTAKING WAIT PERIOD! 
