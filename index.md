@@ -31,6 +31,8 @@ Join the Discord Server
 >
 
 Click the `"Make a Ecosystem"` tab in Discord and send the requested information.(name of ecosystem, wallet address's, etc...) 
+Congratulations! You have just created your Latinum Finance Ecosystem! 
+
 
 ## Building your Ecosystem
 
@@ -67,39 +69,46 @@ Plan and purchase the planets for your Ecosystem
 
 `View your Ecosystem and totals by going to latinumfinance.github.io/Your_Registered_ETH_Wallet_Address`
 
-## Building your Ecosystem
+## Unstaking your Ecosystem
 
 > Step 1:
 > 
 
-`Join the Discord Server`
+Connect to the Discord Server
 `Discord Server : 987987987`
 
 >Step 2:
 >
 
-`Click the "Make a Ecosystem" tab in Discord and send the requested information.(name, wallet address's, etc.)` 
+Click the `"Unstake a Ecosystem"` tab in Discord and send the requested information.(name, wallet address's, token to unstake etc.) 
+
+>Step 2:
+>
+
+Congratulations! The unstaking process has begun! Now just wait for your tokens to arrive in your registered wallet once the unstaking process has completed.
+**Remember you must wait the full duration of the unstaking wait period!**
+You can check the status of your Unstaking period here: [Maybe I can ?](./CosmosEcosystem) 
+
+`ALL ASSETS HAVE DIFFERENT UNSTAKING WAIT PERIODS! WE ARE UNABLE TO EXPEDITE THIS PROCESS! YOU MUST WAIT THE FULL DURATION OF THE UNSTAKING WAIT PERIOD! 
+
+
+
+## Find My Ecosystem
+
+`View your Ecosystem and totals by going to latinumfinance.github.io/Your_Registered_ETH_Wallet_Address`
 
 
 
 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
-#### Find My Ecosystem
+
+
+
+
+
+
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
@@ -121,6 +130,24 @@ end
 | ok           | good `zoute` drop | yumm  |
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+
 
 ### There's a horizontal rule below this.
 
