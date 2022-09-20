@@ -10,35 +10,53 @@ layout: default
 ![Binance Ecosystem](https://latinumfinance.github.io/assets/images/binanceecosystemicon2.png)[Binance Ecosystem](./CosmosEcosystem)
 
 
-![Polygon Ecosystem](https://latinumfinance.github.io/assets/images/binanceecosystemicon.png)[Binance Ecosystem](./CosmosEcosystem)
+![Polygon Ecosystem](https://latinumfinance.github.io/assets/images/polygonicon.png)[Binance Ecosystem](./CosmosEcosystem)
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Latinum Finance
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## How it Works
+## How to Get Started
+
+> Step 1: Registering a Ecosystem
+> 
+
+`Join the Discord Server`
+`Discord Server : 987987987`
+
+>Step 2:
+>
+
+`Click the "Make a Ecosystem" tab in Discord and send the requested information.(name of ecosystem, wallet address's, etc...)` 
+
+>Step 3:
+>
+
+`Carefully plan and purchase your Ecosystem **using the same wallet address's used to register your ecosystem**`
+`Orders recieved that differ from the amount total or do not match any registered wallet adresses will be sent back to the same address less the gas cost used.`
+
+>Step 3:
+>
+
+`View your Ecosystem and totals by going to latinumfinance.github.io/YOUR*REGISTERED*ETH*WALLET*ADDRESS 
+
+### Making a Ecosystem
 
 > Step 1:
 > 
 
 `Join the Discord Server`
+`Discord Server : 987987987`
 
 >Step 2:
 >
 
 `Click the "Make a Ecosystem" tab in Discord and send the requested information.(name, wallet address's, etc.)` 
 
->Step 3:
-`Carefully plan and purchase your Ecosystem **using the same wallet address's used to register your ecosystem**
-`Orders recieved that differ from the amount total will be sent back to the same addresss less the gas cost used.`
->Step 3:
-`View your Ecosystem and totals by going to latinumfinance.github.io/YOUR*REGISTERED*ETH*WALLET*ADDRESS 
 
-### Starting a Ecosystem
+
+
 
 ```js
 // Javascript code with syntax highlighting.
