@@ -18,7 +18,8 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Header 2
 
-```ATOM
+```
+ATOM
 APY: 10%
 ```
 
