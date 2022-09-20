@@ -19,19 +19,19 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 ## Tokens
 
 
-`ATOM`
-</a>
-`APY: 10%`
-
 |    Token:    |       APY:        | Size (10 Tokens) |
 |:-------------|:------------------|:-----------------|
 |    ![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png)[ATOM](./CosmosEcosystem)     |       10%         |     In Stock     |
-|     CRO      |       10%         |     In Stock     |
+|     ![Cro Ecosystem](https://latinumfinance.github.io/assets/images/crotokenicon.png)[CRO](./CosmosEcosystem)      |       10%         |     In Stock     |
 |    [CRO](./another-page.html)|       10%         |     In Stock     |
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
+
+`ATOM`
+</a>
+`APY: 10%`
 
 ### Header 3
 
