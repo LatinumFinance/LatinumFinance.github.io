@@ -20,7 +20,7 @@ to earn passive rewards on their crypto assets! More information about staking a
 
 ## Registering a Ecosystem
 
-> Step 1: Registering a Ecosystem
+> Step 1:
 > 
 
 Join the Discord Server
