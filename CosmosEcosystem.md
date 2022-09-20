@@ -19,11 +19,10 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 ## Tokens
 
 
-|    Token:    |       APY:        | Size (10 Tokens) |
-|:-------------|:------------------|:-----------------|
-|    ![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png)[ATOM](./CosmosEcosystem)     |       10%         |     In Stock     |
-|     ![Cro Ecosystem](https://latinumfinance.github.io/assets/images/crotokenicon.png)[CRO](./CosmosEcosystem)      |       10%         |     In Stock     |
-|    [CRO](./another-page.html)|       10%         |     In Stock     |
+|    Token:    |       APY:        |
+|:-------------|:------------------|
+|    ![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png)[ATOM](./CosmosEcosystem)     |       10%         |
+
 
 > This is a blockquote following a header.
 >
@@ -70,6 +69,14 @@ end
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
+
+
+
+|    Token:    |       APY:        | Size (10 Tokens) |
+|:-------------|:------------------|:-----------------|
+|    ![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png)[ATOM](./CosmosEcosystem)     |       10%         |     In Stock     |
+|     ![Cro Ecosystem](https://latinumfinance.github.io/assets/images/crotokenicon.png)[CRO](./CosmosEcosystem)      |       10%         |     In Stock     |
+|    [CRO](./another-page.html)|       10%         |     In Stock     |
 
 ### There's a horizontal rule below this.
 
