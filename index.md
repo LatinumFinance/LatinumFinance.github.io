@@ -22,9 +22,15 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## How it Works
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Step 1:
+`Join the Discord Server`
+>Step 2:
+`Click the "Make a Ecosystem" tab in Discord and send the requested information.(name, wallet address's, etc.)` 
+>Step 3:
+`Carefully plan and purchase your Ecosystem **using the same wallet address's used to register your ecosystem**
+`Orders recieved that differ from the amount total will be sent back to the same addresss less the gas cost used.`
+>Step 3:
+`View your Ecosystem and totals by going to latinumfinance.github.io/YOUR*REGISTERED*ETH*WALLET*ADDRESS 
 
 ### Starting a Ecosystem
 
