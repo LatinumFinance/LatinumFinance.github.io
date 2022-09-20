@@ -23,21 +23,21 @@ to earn passive rewards on their crypto assets! More information about staking a
 > Step 1: Registering a Ecosystem
 > 
 
-`Join the Discord Server`
+Join the Discord Server
 
 `Discord Server : 987987987`
 
 >Step 2:
 >
 
-`Click the "Make a Ecosystem" tab in Discord and send the requested information.(name of ecosystem, wallet address's, etc...)` 
+Click the `"Make a Ecosystem"` tab in Discord and send the requested information.(name of ecosystem, wallet address's, etc...) 
 
 ## Building your Ecosystem
 
 >Step 1:
 >
 
-`Plan and purchase the planets for your Ecosystem` 
+Plan and purchase the planets for your Ecosystem 
 
 `*USE THE SAME WALLET ADDRESS USED TO REGISTER YOUR ECOSYSTEM*`
 
