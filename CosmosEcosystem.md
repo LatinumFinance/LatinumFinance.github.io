@@ -19,9 +19,9 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 ## Tokens
 
 
-|    Token:    |       APY:        |
-|:-------------|:------------------|
-|    ![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png)[ATOM](./CosmosEcosystem)     |       10%         |
+|    Token:    |       APY:        |     Duration     |
+|:-------------|:------------------|:-----------------|
+|    ![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png)[ATOM](./CosmosEcosystem)     |       10%         |     Flexible     |
 
 
 > This is a blockquote following a header.
