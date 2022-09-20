@@ -95,7 +95,7 @@ You can check the status of your Unstaking period here: [Maybe I can ?](./Cosmos
 
 ## Find My Ecosystem
 
-`View your Ecosystem and totals by going to latinumfinance.github.io/Your_Registered_ETH_Wallet_Address`
+View your Ecosystem and totals by going to latinumfinance.github.io/`Your_Registered_ETH_Wallet_Address`
 
 
 
