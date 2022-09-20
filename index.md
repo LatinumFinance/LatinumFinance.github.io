@@ -39,30 +39,26 @@ Congratulations! You have just created your Latinum Finance Ecosystem!
 >Step 1:
 >
 
-Plan and purchase the planets for your Ecosystem 
-
-`*USE THE SAME WALLET ADDRESS USED TO REGISTER YOUR ECOSYSTEM*`
-
-`*Orders recieved that differ from the amount total or do not match any registered wallet adresses will be sent back to the same address less the gas cost used*`
+Choose your favorite crypto ecosystem and token that you want to stake!
 
 >Step 2:
 >
 
-`Choose your favorite crypto ecosystem and token that you plan to stake in order to purchase a planet for your crypto ecosystem`
+Locate that token on the Latinum Finance website to double check the availability, network used, wallet address and required token send quantity.
 
 >Step 3:
 >
 
-`Locate that token on the Latinum Finance website to double check the availability, network used, wallet address and required token quantity`
+Purchase a planet for your crypto ecosystem by sending the exact amount of tokens to the listed wallet address to be staked for passive income rewards!
 
->Step 4:
->
 
-`Purchase a planet for your crypto ecosystem by sending the exact amount of tokens to the listed wallet address to be staked for passive income rewards!`
+`*USE THE SAME WALLET ADDRESS YOU USED TO REGISTER YOUR ECOSYSTEM ON DISCORD*`
 
-`*MAKE SURE YOU SEND YOUR TOKENS USING THE CORRECT WALLET ADDRESS AND NETWORK! FUNDS SENT TO THE WRONG ADDRESS OR NETWORK CAN NOT BE RECOVERED*`
+`*MAKE SURE TO SEND YOUR TOKENS TO THE CORRECT WALLET ADDRESS USING THE RIGHT NETWORK! FUNDS SENT TO THE WRONG ADDRESS OR OVER THE WRONG NETWORK CAN NOT BE RECOVERED*`
 
-`*All STAKED TOKENS CAN BE UNSTAKED AT ANY TIME BUT REQUIRE A 3 DAY UNSTAKING PERIOD* Find out more about unstaking your assets here: [Unstaking my Assests](./CosmosEcosystem)` 
+_*Orders recieved that differ from the amount total or do not match any registered wallet adresses will be sent back to the same address less the gas cost used*_
+
+`*All STAKED TOKENS CAN BE UNSTAKED AT ANY TIME BUT REQUIRE CERTAIN UNSTAKING TIME PERIODS* Find out more about unstaking your assets here: [Unstaking my Assests](./CosmosEcosystem)` 
 
 >Step 5:
 >
