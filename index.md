@@ -96,27 +96,9 @@ You can check the status of your Unstaking period here: [Maybe I can ?](./Cosmos
 View your Ecosystem and totals by going to latinumfinance.github.io/`Your_Registered_ETH_Wallet_Address`
 
 
+##### Why no Metamask?
 
-
-
-
-
-
-
-
-
-
-
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Contact Us - Social Media
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+To be able to grow and offer the widest range of assets possible in the crypto industry we choose to go with a unconnected wallet address system.  Trying to figure out how to transfer tokens around using specific wallets and blockchain networks is a serious hurdle for a lot of users. Not only does it cut down on gas fees to participate, but we felt that by eliminating this hurdle and accepting tokens from any exchange or wallet you happen to be hodling your tokens on we would expand this exciting and lucrative part of the crypto world to a lot more people. Users can always keep track of their staked assets and rewards on their individual ecosystem web pages. 
 
 ###### Header 6
 
@@ -126,6 +108,15 @@ View your Ecosystem and totals by going to latinumfinance.github.io/`Your_Regist
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
