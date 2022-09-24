@@ -2,25 +2,20 @@
 layout: default
 ---
 
+# Latinum Finance - The Highest APY offered for stablecoins in the industry - Earn some passive income! Give us a try, you wont regret it!
+
+Latinum Finance allows you to earn passive income on your current cryptocurrency holdings. When you stake crypto, your assets go towards verifying transactions
+and  securing the network. To incentivize staking, the network generates rewards and pays them out to stakers. Staking is the best option for customers looking
+to earn passive rewards on their crypto assets! More information about staking and rewards here: [Staking Rewards System](./CosmosEcosystem) 
+
 # Stablecoins
 
 
-![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdticonlogo.png)[Stablecoin Pairs](./usdtecosystem)  
+![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdticonlogo.png)![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdciconlogo.png)![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/daiiconlogo.png)[Stablecoin Pairs](./stablecoinpairs)  
 
 
-![USDC Pairs](https://latinumfinance.github.io/assets/images/usdciconlogo.png)[USDT Ecosystem](./usdtecosystem)
-
-
-![USDT Ecosystem](https://latinumfinance.github.io/assets/images/daiiconlogo.png)[USDT Ecosystem](./usdtecosystem)
-
-
-![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png)[Cosmos Ecosystem](./CosmosEcosystem) 
-
-
-![Binance Ecosystem](https://latinumfinance.github.io/assets/images/binanceecosystemicon2.png)[Binance Ecosystem](./CosmosEcosystem)
-
-
-![Polygon Ecosystem](https://latinumfinance.github.io/assets/images/polygonicon.png)[Polygon Ecosystem](./CosmosEcosystem)
+> More coins coming soon!
+> 
 
 
 
@@ -133,6 +128,21 @@ To be able to grow and offer the widest range of assets possible in the crypto i
 *   This is an unordered list following a header.
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+
+
+![USDC Pairs](https://latinumfinance.github.io/assets/images/usdciconlogo.png)[USDT Ecosystem](./usdtecosystem)
+
+
+![USDT Ecosystem](https://latinumfinance.github.io/assets/images/daiiconlogo.png)[USDT Ecosystem](./usdtecosystem)
+
+
+![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png)[Cosmos Ecosystem](./CosmosEcosystem) 
+
+
+![Binance Ecosystem](https://latinumfinance.github.io/assets/images/binanceecosystemicon2.png)[Binance Ecosystem](./CosmosEcosystem)
+
+
+![Polygon Ecosystem](https://latinumfinance.github.io/assets/images/polygonicon.png)[Polygon Ecosystem](./CosmosEcosystem)
 
 
 ```js
