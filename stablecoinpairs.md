@@ -3,16 +3,15 @@ layout: default
 ---
 
 
-# USDT
+# Stablecoin Pairs
 
 Cosmos a decentralized network of independent scalable, and interoperable blockchains. Cosmos is a network connecting many independent distributed ledgers to achieve interoperability accross blockchains. Its goal is to create a network of blockchains where each participant is able to communicate with eachother in a decentralized way.
 
-## USDT Pairs
 
 
 |    Token:    |    Symbol:   |       APY:        |     Duration     | Unstake Wait Period |
 |:-------------|:-------------|:------------------|:-----------------|:--------------------|
-|    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)+![USDC Icon](https://latinumfinance.github.io/assets/images/usdciconlogo.png)    |     [USDT](./usdt)     |       10%         |     Flexible     | 21 Days |
+|    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)![USDC Icon](https://latinumfinance.github.io/assets/images/usdciconlogo.png)    |     [USDT](./usdt)     |       10%         |     Flexible     | 21 Days |
 
 
 > Stake at your own risk. Do your own research before investing in a token.
