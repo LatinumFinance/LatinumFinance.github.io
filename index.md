@@ -3,13 +3,15 @@ layout: default
 ---
 
         
----> ![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png)[Cosmos Ecosystem](./CosmosEcosystem) 
+<!--- 
+![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png)[Cosmos Ecosystem](./CosmosEcosystem) 
 
 
 ![Binance Ecosystem](https://latinumfinance.github.io/assets/images/binanceecosystemicon2.png)[Binance Ecosystem](./CosmosEcosystem)
 
 
 ![Polygon Ecosystem](https://latinumfinance.github.io/assets/images/polygonicon.png)[Polygon Ecosystem](./CosmosEcosystem)
+---!>
 
 
 # Latinum Finance
