@@ -5,13 +5,13 @@ layout: default
 # Stablecoins
 
 
-![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdticonlogo.png)[USDT Ecosystem](./usdtecosystem)  
+![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdticonlogo.png)[Stablecoin Pairs](./usdtecosystem)  
 
 
-![USDC Pairs](https://latinumfinance.github.io/assets/images/usdticonlogo.png)[USDT Ecosystem](./usdtecosystem)
+![USDC Pairs](https://latinumfinance.github.io/assets/images/usdciconlogo.png)[USDT Ecosystem](./usdtecosystem)
 
 
-![USDT Ecosystem](https://latinumfinance.github.io/assets/images/usdticonlogo.png)[USDT Ecosystem](./usdtecosystem)
+![USDT Ecosystem](https://latinumfinance.github.io/assets/images/daiiconlogo.png)[USDT Ecosystem](./usdtecosystem)
 
 
 ![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png)[Cosmos Ecosystem](./CosmosEcosystem) 
