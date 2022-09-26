@@ -3,14 +3,14 @@ layout: default
 ---
 
 
-# USDT
+# Tether USDT
 
 Tether is a stablecoin pegged to the US Dollar. A stablecoin is a type of cryptocurrency whose value is pegged to another fiat currency like the US Dollar or to a commodity like Gold. 
 
 Tether is the first stablecoin to be created and it is the most popular stablecoin used in the ecosystem. It has the largest stablecoins by circulation and market capitalization.
 
 
-![1usdt1usd](https://latinumfinance.github.io/assets/images/1usdt1usdnew.png)
+![1usdt1usd](https://latinumfinance.github.io/assets/images/1usdt1usdupdate.png)
 
 
 |    Token:    |    Symbol:   |       APY:        |     Duration     | Unstake Wait Period |
