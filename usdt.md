@@ -10,7 +10,7 @@ Tether is a stablecoin pegged to the US Dollar. A stablecoin is a type of crypto
 Tether is the first stablecoin to be created and it is the most popular stablecoin used in the ecosystem. It has the largest stablecoins by circulation and market capitalization.
 
 
-![1usdt1usd](https://latinumfinance.github.io/assets/images/1usdt1usd.png)
+![1usdt1usd](https://latinumfinance.github.io/assets/images/1usdt1usdnew.png)
 
 
 |    Token:    |    Symbol:   |       APY:        |     Duration     | Unstake Wait Period |
