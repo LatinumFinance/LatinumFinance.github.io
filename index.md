@@ -10,7 +10,7 @@ to earn passive rewards on their crypto assets! More information about staking a
 
 # Stablecoins
 
-#### USDT
+#### USDT Tether
 
 ![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdticonlogo.png)[Stake USDT](./usdt)
 
