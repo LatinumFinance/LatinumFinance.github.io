@@ -27,16 +27,6 @@ Tether is the first stablecoin to be created and it is the most popular stableco
 
 
 
-    <div>
-      <a class="buy-with-crypto"
-        href="https://commerce.coinbase.com/checkout/f305e564-fb8d-41d3-9011-ad5d5f9e6c05">
-        Buy with Crypto
-      </a>
-      <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
-      </script>
-    </div>
-
-
 
 [back](./)
 
