@@ -10,8 +10,16 @@ to earn passive rewards on their crypto assets! More information about staking a
 
 # Stablecoins
 
+#### USDT
 
-![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdticonlogo.png)![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdciconlogo.png)![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/daiiconlogo.png)[Stablecoin Pairs](./stablecoinpairs)  
+![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdticonlogo.png)[Stake USDT](./stablecoinpairs)
+
+#### USDC
+
+![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdciconlogo.png)[Stake USDC](./stablecoinpairs)
+
+#### DAI
+![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/daiiconlogo.png)[Stake Dai](./stablecoinpairs)  
 
 
 > More coins coming soon!
