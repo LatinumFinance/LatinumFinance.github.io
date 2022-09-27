@@ -6,7 +6,16 @@ layout: default
 |        |   Token:  | Symbol:  | Staked Balance:| Pending Rewards: | 7 Day Rewards: | Total Rewards: | 
 |:-------|:----------|:---------|:---------------|:-----------------|:---------------|:---------------|
 | ![usdt icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png) | Tether | USDT | 100  | .000066 | .0001834 | .011 |
-        
+
+
+|        |   Token:  | Symbol:  | Staked Balance:| Pending Rewards: | 7 Day Rewards: | Total Rewards: | 
+|:-------|:----------|:---------|:---------------|:-----------------|:---------------|:---------------|
+| ![usdt icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png) | Tether | USDT | 100  | .000066 | .0001834 | .011 |
+
+
+
+
+
 ![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png)[Cosmos Ecosystem](./CosmosEcosystem) 
 
 
