@@ -3,9 +3,9 @@ layout: default
 ---
 
 
-|        |   Token:  | Symbol:  | Staked Balance:| APY: | Pending Rewards: | 7 Day Rewards: | Total Rewards: |
-|:-------|:----------|:---------|:---------------|:-----|:-----------------|:---------------|:---------------|
-| ![usdt icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png) | Tether | USDT | 100.011 | 4% | .000066 | .0001834 | .011 |
+|        |   Token:  | Symbol:  | Staked Balance:| APY: | Pending Rewards: | 7 Day Rewards: | Total Rewards: | Reward Tier Boost: |
+|:-------|:----------|:---------|:---------------|:-----|:-----------------|:---------------|:---------------|:-------------------|
+| ![usdt icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png) | Tether | USDT | 100.011 | 4% | .000066 | .0001834 | .011 | 0-3 |
 
 
 |        |   Token:  | Symbol:  | Staked Balance:| APY: | Pending Rewards: | 7 Day Rewards: | Total Rewards: |
@@ -28,6 +28,35 @@ layout: default
 | ![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png) | Cosmos Atom | ATOM | 100 | 4% | .000066 | .0001834 | .011 |
 
 
+> *Staked balances will be compounded and updated every friday.(pending rewards will be compounded into staked balance)*
+> *Any comments, questions, or concerns please connect with us on Discord or email us at : LatinumFinanceSupport@gmail.com*
+> 
+
+## Reward Tier Boosts
+
+#### Tier 0
+
+|     USD    |APY:| Reward Tier:  |
+|:-----------|:---|:--------------|
+| 1$ - 1000$ | 1% | 0 |
+
+#### Tier 1
+
+|     USD    |APY:| Reward Tier:  |
+|:-----------|:---|:--------------|
+| 1001$ - 5000$ | 2% | 1 |
+
+#### Tier 2
+
+|     USD    |APY:| Reward Tier:  |
+|:-----------|:---|:--------------|
+| 1001$ - 5000$ | 2% | 2 |
+
+#### Tier 3
+
+|     USD    |APY:| Reward Tier:  |
+|:-----------|:---|:--------------|
+| 1001$ - 5000$ | 2% | 3 |
 
 ![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png)[Cosmos Ecosystem](./CosmosEcosystem) 
 
