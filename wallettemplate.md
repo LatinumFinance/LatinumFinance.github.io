@@ -37,27 +37,27 @@ layout: default
 
 #### Tier 0
 
-|     USD    |APY:| Reward Tier:  |
+|     <center>USD    | <center>APY: | <center>Reward Tier: |
 |:-----------|:---|:--------------|
-| 1$ - 1000$ | 1% | 0 |
+| <center>100$ - 1,000$ | <center>1% | <center>0 |
 
 #### Tier 1
 
-|     USD    |APY:| Reward Tier:  |
+|     <center>USD    | <center>APY: | <center>Reward Tier: |
 |:-----------|:---|:--------------|
-| 1001$ - 5000$ | 2% | 1 |
+| <center>1,001$ - 5,000$ | <center>2% | <center>1 |
 
 #### Tier 2
 
-|     USD    |APY:| Reward Tier:  |
+|     <center>USD    | <center>APY: | <center>Reward Tier: |
 |:-----------|:---|:--------------|
-| 1001$ - 5000$ | 2% | 2 |
+| <center>5,001$ - 10,000$ | <center>3% | <center>2 |
 
 #### Tier 3
 
-|     USD    |APY:| Reward Tier:  |
+|     <center>USD    | <center>APY: | <center>Reward Tier: |
 |:-----------|:---|:--------------|
-| 1001$ - 5000$ | 2% | 3 |
+| <center>10,001$+ | <center>4% | <center>3 |
 
 ![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png)[Cosmos Ecosystem](./CosmosEcosystem) 
 
