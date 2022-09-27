@@ -7,17 +7,17 @@ layout: default
 
 |        |   <center>Token:  | <center>Symbol:  | <center>Staked Balance:| <center>APY: | <center>Reward Tier Boost: |
 |:-------|:----------|:---------|:---------------|:-----|:-------------------|
-| ![usdt icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png) | Tether | USDT | 100.011 | 4% | <center>0-3 |
+| ![usdt icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png) | <center>Tether | <center>USDT | <center>100.011 | <center>4% | <center>0-3 |
 
 
-|        |   Token:  | Symbol:  | Staked Balance:| APY: | Pending Rewards: | 7 Day Rewards: | Total Rewards: |
-|:-------|:----------|:---------|:---------------|:-----|:-----------------|:---------------|:---------------|
-| ![usdt icon](https://latinumfinance.github.io/assets/images/usdciconlogo.png) | USD Coin | USDC | 100 | 4% | .000066 | .0001834 | .011 |
+|        |   <center>Token:  | <center>Symbol:  | <center>Staked Balance:| <center>APY: | <center>Reward Tier Boost(0-3): |
+|:-------|:----------|:---------|:---------------|:-----|:------------------------|
+| ![usdt icon](https://latinumfinance.github.io/assets/images/usdciconlogo.png) | <center>USD Coin | <center>USDC | <center>100 | <center>4% | <center>0 |
 
 
-|        |   Token:  | Symbol:  | Staked Balance:| APY: | Pending Rewards: | 7 Day Rewards: | Total Rewards: |
-|:-------|:----------|:---------|:---------------|:-----|:-----------------|:---------------|:---------------|
-| ![usdt icon](https://latinumfinance.github.io/assets/images/daiiconlogo.png) | Dai | DAI | 100 | 4% | .000066 | .0001834 | .011 |
+|        |   <center>Token:  | <center>Symbol:  | <center>Staked Balance:| <center>APY: | <center>Reward Tier Boost(0-3): |
+|:-------|:----------|:---------|:---------------|:-----|:-----------------|
+| ![usdt icon](https://latinumfinance.github.io/assets/images/daiiconlogo.png) | <center>Dai | <center>DAI | <center>100 | <center>4% | <center>0 |
 
 
 |        |   Token:  | Symbol:  | Staked Balance:| APY: | Pending Rewards: | 7 Day Rewards: | Total Rewards: |
@@ -164,7 +164,14 @@ View your Ecosystem and totals by going to latinumfinance.github.io/`Your_Regist
 
 
 
+|        |   Token:  | Symbol:  | Staked Balance:| APY: | Pending Rewards: | 7 Day Rewards: | Total Rewards: |
+|:-------|:----------|:---------|:---------------|:-----|:-----------------|:---------------|:---------------|
+| ![Binance Ecosystem](https://latinumfinance.github.io/assets/images/binanceecosystemicon2.png) | Binance USD | BUSD | 100 | 4% | .000066 | .0001834 | .011 |
 
+
+|        |   Token:  | Symbol:  | Staked Balance:| APY: | Pending Rewards: | 7 Day Rewards: | Total Rewards: |
+|:-------|:----------|:---------|:---------------|:-----|:-----------------|:---------------|:---------------|
+| ![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png) | Cosmos Atom | ATOM | 100 | 4% | .000066 | .0001834 | .011 |
 
 
 
