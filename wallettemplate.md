@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# WALLET
+
 
 |        |   Token:  | Symbol:  | Staked Balance:| APY: | Pending Rewards: | 7 Day Rewards: | Total Rewards: | Reward Tier Boost: |
 |:-------|:----------|:---------|:---------------|:-----|:-----------------|:---------------|:---------------|:-------------------|
