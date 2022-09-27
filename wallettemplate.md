@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# <center>WALLET
+# <center>Latinum Vault
 
 
 |        |   Token:  | Symbol:  | Staked Balance:| APY: | Pending Rewards: | 7 Day Rewards: | Total Rewards: | Reward Tier Boost: |
