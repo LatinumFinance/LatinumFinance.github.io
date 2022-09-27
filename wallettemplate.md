@@ -33,7 +33,7 @@ layout: default
 > 
 
 
-<frame width="1000" height="900" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=A14A1C88D2FFCA31%21337&authkey=%21AC3P36lyuhPHKWg&em=2&wdAllowInteractivity=False&Item=ProfitCalc&wdHideGridlines=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=false&resen=false"></frame>
+<a width="1000" height="900" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=A14A1C88D2FFCA31%21337&authkey=%21AC3P36lyuhPHKWg&em=2&wdAllowInteractivity=False&Item=ProfitCalc&wdHideGridlines=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=false&resen=false"></a>
 
 
 
