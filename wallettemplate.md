@@ -5,7 +5,7 @@ layout: default
 # <center>Latinum Vault
 
 
-|        |   <center>Token:  | <center>Symbol:  | <center>Staked Balance:| <center>APY: | <center>Reward Tier Boost: |
+|        |   <center>Token:  | <center>Symbol:  | <center>Staked Balance:| <center>APY: | <center>Reward Tier Boost(0-3): |
 |:-------|:----------|:---------|:---------------|:-----|:-------------------|
 | ![usdt icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png) | <center>Tether | <center>USDT | <center>100.011 | <center>4% | <center>0-3 |
 
@@ -18,16 +18,6 @@ layout: default
 |        |   <center>Token:  | <center>Symbol:  | <center>Staked Balance:| <center>APY: | <center>Reward Tier Boost(0-3): |
 |:-------|:----------|:---------|:---------------|:-----|:-----------------|
 | ![usdt icon](https://latinumfinance.github.io/assets/images/daiiconlogo.png) | <center>Dai | <center>DAI | <center>100 | <center>4% | <center>0 |
-
-
-|        |   Token:  | Symbol:  | Staked Balance:| APY: | Pending Rewards: | 7 Day Rewards: | Total Rewards: |
-|:-------|:----------|:---------|:---------------|:-----|:-----------------|:---------------|:---------------|
-| ![Binance Ecosystem](https://latinumfinance.github.io/assets/images/binanceecosystemicon2.png) | Binance USD | BUSD | 100 | 4% | .000066 | .0001834 | .011 |
-
-
-|        |   Token:  | Symbol:  | Staked Balance:| APY: | Pending Rewards: | 7 Day Rewards: | Total Rewards: |
-|:-------|:----------|:---------|:---------------|:-----|:-----------------|:---------------|:---------------|
-| ![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png) | Cosmos Atom | ATOM | 100 | 4% | .000066 | .0001834 | .011 |
 
 
 > *Staked balances will be compounded and updated every friday.(pending rewards will be compounded into staked balance)*
