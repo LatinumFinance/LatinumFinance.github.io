@@ -3,9 +3,9 @@ layout: default
 ---
 
 
-| Token:        | head two          | Quantity | Days Staked |
-|:-------------|:------------------|:----------|:------------|
-| USDT          | ![usdt icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png) | 100  | 7 |
+|        |   Token:  | Symbol:  | Staked Balance:| Pending Rewards: | 7 Day Rewards: | Total Rewards: | 
+|:-------|:----------|:---------|:---------------|:-----------------|:---------------|:---------------|
+| ![usdt icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png) | Tether | USDT | 100  | .000066 | .0001834 | .011 |
         
 ![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png)[Cosmos Ecosystem](./CosmosEcosystem) 
 
