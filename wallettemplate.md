@@ -5,9 +5,9 @@ layout: default
 # <center>Latinum Vault
 
 
-|        |   Token:  | Symbol:  | Staked Balance:| APY: | Pending Rewards: | 7 Day Rewards: | Total Rewards: | Reward Tier Boost: |
-|:-------|:----------|:---------|:---------------|:-----|:-----------------|:---------------|:---------------|:-------------------|
-| ![usdt icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png) | Tether | USDT | 100.011 | 4% | .000066 | .0001834 | .011 | 0-3 |
+|        |   Token:  | Symbol:  | Staked Balance:| APY: | Reward Tier Boost: |
+|:-------|:----------|:---------|:---------------|:-----|:-------------------|
+| ![usdt icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png) | Tether | USDT | 100.011 | 4% | 0-3 |
 
 
 |        |   Token:  | Symbol:  | Staked Balance:| APY: | Pending Rewards: | 7 Day Rewards: | Total Rewards: |
