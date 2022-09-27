@@ -15,7 +15,12 @@ Tether is the first stablecoin to be created and it is the most popular stableco
 
 |    Token:    |    Symbol:   |       APY:        |     Duration     | Unstake Wait Period |  test  |
 |:-------------|:-------------|:------------------|:-----------------|:--------------------|:-------|
-|    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     [USDT](./usdt)     |       4%         |     Flexible     | 21 Days |   Test   |  
+|    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     [USDT](./usdt)     |       4%         |     Flexible     | 21 Days |   <a class="buy-with-crypto"
+        href="https://commerce.coinbase.com/checkout/f305e564-fb8d-41d3-9011-ad5d5f9e6c05">
+        Buy with Crypto
+      </a>
+      <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807">
+      </script>   |  
 
 
 
