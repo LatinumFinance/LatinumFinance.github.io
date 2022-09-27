@@ -3,29 +3,29 @@ layout: default
 ---
 
 
-|        |   Token:  | Symbol:  | Staked Balance:| APY: | Pending Rewards: | 7 Day Rewards: | Total Rewards: | Compounded Total Balance: |
-|:-------|:----------|:---------|:---------------|:-----|:-----------------|:---------------|:---------------|:--------------------------|
-| ![usdt icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png) | Tether | USDT | 100 | 4% | .000066 | .0001834 | .011 | 100.011 |
+|        |   Token:  | Symbol:  | Staked Balance:| APY: | Pending Rewards: | 7 Day Rewards: | Total Rewards: |
+|:-------|:----------|:---------|:---------------|:-----|:-----------------|:---------------|:---------------|
+| ![usdt icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png) | Tether | USDT | 100.011 | 4% | .000066 | .0001834 | .011 |
 
 
-|        |   Token:  | Symbol:  | Staked Balance:| APY: | Pending Rewards: | 7 Day Rewards: | Total Rewards: | Compounded Total Balance: |
-|:-------|:----------|:---------|:---------------|:-----|:-----------------|:---------------|:---------------|:--------------------------|
-| ![usdt icon](https://latinumfinance.github.io/assets/images/usdciconlogo.png) | USD Coin | USDC | 100 | 4% | .000066 | .0001834 | .011 | 100.011 |
+|        |   Token:  | Symbol:  | Staked Balance:| APY: | Pending Rewards: | 7 Day Rewards: | Total Rewards: |
+|:-------|:----------|:---------|:---------------|:-----|:-----------------|:---------------|:---------------|
+| ![usdt icon](https://latinumfinance.github.io/assets/images/usdciconlogo.png) | USD Coin | USDC | 100 | 4% | .000066 | .0001834 | .011 |
 
 
-|        |   Token:  | Symbol:  | Staked Balance:| APY: | Pending Rewards: | 7 Day Rewards: | Total Rewards: | Compounded Total Balance: |
-|:-------|:----------|:---------|:---------------|:-----|:-----------------|:---------------|:---------------|:--------------------------|
-| ![usdt icon](https://latinumfinance.github.io/assets/images/daiiconlogo.png) | Dai | DAI | 100 | 4% | .000066 | .0001834 | .011 | 100.011 |
+|        |   Token:  | Symbol:  | Staked Balance:| APY: | Pending Rewards: | 7 Day Rewards: | Total Rewards: |
+|:-------|:----------|:---------|:---------------|:-----|:-----------------|:---------------|:---------------|
+| ![usdt icon](https://latinumfinance.github.io/assets/images/daiiconlogo.png) | Dai | DAI | 100 | 4% | .000066 | .0001834 | .011 |
 
 
-|        |   Token:  | Symbol:  | Staked Balance:| APY: | Pending Rewards: | 7 Day Rewards: | Total Rewards: | Compounded Total Balance: |
-|:-------|:----------|:---------|:---------------|:-----|:-----------------|:---------------|:---------------|:--------------------------|
-| ![Binance Ecosystem](https://latinumfinance.github.io/assets/images/binanceecosystemicon2.png) | Binance USD | BUSD | 100 | 4% | .000066 | .0001834 | .011 | 100.011 |
+|        |   Token:  | Symbol:  | Staked Balance:| APY: | Pending Rewards: | 7 Day Rewards: | Total Rewards: |
+|:-------|:----------|:---------|:---------------|:-----|:-----------------|:---------------|:---------------|
+| ![Binance Ecosystem](https://latinumfinance.github.io/assets/images/binanceecosystemicon2.png) | Binance USD | BUSD | 100 | 4% | .000066 | .0001834 | .011 |
 
 
-|        |   Token:  | Symbol:  | Staked Balance:| APY: | Pending Rewards: | 7 Day Rewards: | Total Rewards: | Compounded Total Balance: |
-|:-------|:----------|:---------|:---------------|:-----|:-----------------|:---------------|:---------------|:--------------------------|
-| ![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png) | Cosmos Atom | ATOM | 100 | 4% | .000066 | .0001834 | .011 | 100.011 |
+|        |   Token:  | Symbol:  | Staked Balance:| APY: | Pending Rewards: | 7 Day Rewards: | Total Rewards: |
+|:-------|:----------|:---------|:---------------|:-----|:-----------------|:---------------|:---------------|
+| ![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png) | Cosmos Atom | ATOM | 100 | 4% | .000066 | .0001834 | .011 |
 
 
 
