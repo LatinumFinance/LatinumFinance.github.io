@@ -5,7 +5,7 @@ layout: default
 # <center>Latinum Vault
 
 
-|        |   Token:  | Symbol:  | Staked Balance:| APY: | Reward Tier Boost: |
+|        |   <center>Token:  | <center>Symbol:  | <center>Staked Balance:| <center>APY: | <center>Reward Tier Boost: |
 |:-------|:----------|:---------|:---------------|:-----|:-------------------|
 | ![usdt icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png) | Tether | USDT | 100.011 | 4% | <center>0-3 |
 
