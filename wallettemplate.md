@@ -12,7 +12,7 @@ layout: default
 
 |        |   <center>Token:  | <center>Symbol:  | <center>Staked Balance:| <center>APY: | <center>Unstaking Wait Period: | <center>Reward Tier Boost(0-3): |
 |:-------|:----------|:---------|:---------------|:-----|:-----|:------------------------|
-| ![usdt icon](https://latinumfinance.github.io/assets/images/usdciconlogo.png) | <center>USD Coin | <center>USDC | <center>100 | <center>4% | <center>21 Days | <center>0 |
+| ![usdt icon](https://latinumfinance.github.io/assets/images/usdciconlogo.png) | <center>USDCoin | <center>USDC | <center>100 | <center>4% | <center>21 Days | <center>0 |
 
 
 |        |   <center>Token:  | <center>Symbol:  | <center>Staked Balance:| <center>APY: | <center>Unstaking Wait Period: | <center>Reward Tier Boost(0-3): |
