@@ -5,7 +5,7 @@ layout: default
 # <center>Latinum Vault
 
 
-|        |   <center>Token:  | <center>Symbol:  | <center>Staked: | <center>Current USDT: | <center>APY: | <center>Unstaking Wait Period: | <center>Reward Tier Boost(0-3): |
+|        |   <center>Token:  | <center>Symbol:  | <center>Staked: | <center>Current USDT: | <center>APY: | <center>Unstaking Wait Period: | <center>Reward Tier Boost: |
 |:-------|:----------|:---------|:---------------|:-----|:-----|:-----|:-------------------|
 | ![usdt icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png) | <center>Tether | <center>USDT | <center>100 | <center>See Below | <center>4% | <center>21 Days | <center>0 |
 | ![usdt icon](https://latinumfinance.github.io/assets/images/usdciconlogo.png) | <center>USDCoin | <center>USDC | <center>100 | <center>See Below | <center>4% | <center>21 Days | <center>0 |
