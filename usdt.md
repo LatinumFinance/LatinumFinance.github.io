@@ -13,14 +13,10 @@ Tether is the first stablecoin to be created and it is the most popular stableco
 ![1usdt1usd](https://latinumfinance.github.io/assets/images/1usdt1usdupdate.png)
 
 
-|    Tether:    |    Symbol:   |       APY:        |     Duration:     | <center>Unstaking Wait Period: |<center>Amount:| Stake Now Using![coinbase logo](https://latinumfinance.github.io/assets/images/coinbaselogo2.png)   |
-|:------|:-------------|:-------------|:------------------|:-----------------|:-------------------------|:---------------------------------|
-|    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     [USDT](./usdt)     |       4%         |     Flexible     |           <center>21 Days |<center>100| <a class="donate-with-crypto" href="https://commerce.coinbase.com/checkout/4affff44-438d-4403-afe0-58789ef1f347"> Stake Crypto </a> <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807"></script>   |
-|    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     [USDT](./usdt)     |       4%         |     Flexible     |           <center>21 Days |<center>500| <a class="buy-with-crypto" href="https://commerce.coinbase.com/checkout/f305e564-fb8d-41d3-9011-ad5d5f9e6c05"> Stake Crypto </a> <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807"></script>   |
-  |    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     [USDT](./usdt)     |       4%         |     Flexible     |           <center>21 Days |<center>1000| <a class="buy-with-crypto" href="https://commerce.coinbase.com/checkout/f305e564-fb8d-41d3-9011-ad5d5f9e6c05"> Stake Crypto </a> <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807"></script>   |
-  |    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     [USDT](./usdt)     |       4%         |     Flexible     |           <center>21 Days |<center>2500| <a class="buy-with-crypto" href="https://commerce.coinbase.com/checkout/f305e564-fb8d-41d3-9011-ad5d5f9e6c05"> Stake Crypto </a> <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807"></script>   |
-  |    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     [USDT](./usdt)     |       4%         |     Flexible     |           <center>21 Days |<center>5000| <a class="buy-with-crypto" href="https://commerce.coinbase.com/checkout/f305e564-fb8d-41d3-9011-ad5d5f9e6c05"> Stake Crypto </a> <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807"></script>   |
-  |    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     [USDT](./usdt)     |       4%         |     Flexible     |           <center>21 Days |<center>10000| <a class="donate-with-crypto" href="https://commerce.coinbase.com/checkout/4affff44-438d-4403-afe0-58789ef1f347"> Stake Crypto </a> <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807"></script>   |
+|    Tether:    |    Symbol:   |       APY:        |     Duration:     | <center>Unstaking Wait Period: | Stake Now Using![coinbase logo](https://latinumfinance.github.io/assets/images/coinbaselogo2.png)   |
+|:-------------|:-------------|:------------------|:-----------------|:-------------------------|:---------------------------------|
+|    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     [USDT](./usdt)     |       4%         |     Flexible     |           <center>21 Days | <a class="donate-with-crypto" href="https://commerce.coinbase.com/checkout/4affff44-438d-4403-afe0-58789ef1f347"> Stake Crypto </a> <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807"></script>   |
+
 
 
   
