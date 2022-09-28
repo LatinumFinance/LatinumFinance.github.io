@@ -9,16 +9,8 @@ layout: default
 |:-------|:----------|:---------|:---------------|:-----|:-----|:-----|:-------------------|
 | ![usdt icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png) | <center>Tether | <center>USDT | <center>100 | <center>See Below | <center>4% | <center>21 Days | <center>0 |
 | ![usdt icon](https://latinumfinance.github.io/assets/images/usdciconlogo.png) | <center>USDCoin | <center>USDC | <center>100 | <center>See Below | <center>4% | <center>21 Days | <center>0 |
-
-
-|        |   <center>Token:  | <center>Symbol:  | <center>Staked: | <center>Current USDC: | <center>APY: | <center>Unstaking Wait Period: | <center>Reward Tier Boost(0-3): |
-|:-------|:----------|:---------|:---------------|:-----|:-----|:-----|:------------------|
-| ![usdt icon](https://latinumfinance.github.io/assets/images/usdciconlogo.png) | <center>USDCoin | <center>USDC | <center>100 | <center>See Below | <center>4% | <center>21 Days | <center>0 |
-
-
-|        |   <center>Token:  | <center>Symbol:  | <center>Staked: | <center>Current DAI | <center>APY: | <center>Unstaking Wait Period: | <center>Reward Tier Boost(0-3): |
-|:-------|:----------|:---------|:---------------|:-----|:-----|:-----|:-----------------|
 | ![usdt icon](https://latinumfinance.github.io/assets/images/daiiconlogo.png) | <center>Dai | <center>DAI | <center>100 | <center>See Below | <center>4% | <center>21 Days | <center>0 |
+
 
 
 > *Staked balances will be compounded and updated every friday.(pending rewards will be compounded into staked balance)*
@@ -34,7 +26,7 @@ layout: default
 
 
 
-## Reward Tier Boosts
+# <center>Reward Tier Boosts
 
 #### Tier 0
 
@@ -67,6 +59,17 @@ layout: default
 
 
 ![Polygon Ecosystem](https://latinumfinance.github.io/assets/images/polygonicon.png)[Polygon Ecosystem](./CosmosEcosystem)
+  
+  
+  |        |   <center>Token:  | <center>Symbol:  | <center>Staked: | <center>Current USDC: | <center>APY: | <center>Unstaking Wait Period: | <center>Reward Tier Boost(0-3): |
+|:-------|:----------|:---------|:---------------|:-----|:-----|:-----|:------------------|
+| ![usdt icon](https://latinumfinance.github.io/assets/images/usdciconlogo.png) | <center>USDCoin | <center>USDC | <center>100 | <center>See Below | <center>4% | <center>21 Days | <center>0 |
+
+
+|        |   <center>Token:  | <center>Symbol:  | <center>Staked: | <center>Current DAI | <center>APY: | <center>Unstaking Wait Period: | <center>Reward Tier Boost(0-3): |
+|:-------|:----------|:---------|:---------------|:-----|:-----|:-----|:-----------------|
+| ![usdt icon](https://latinumfinance.github.io/assets/images/daiiconlogo.png) | <center>Dai | <center>DAI | <center>100 | <center>See Below | <center>4% | <center>21 Days | <center>0 |
+
 
 
 # Latinum Finance
