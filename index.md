@@ -45,38 +45,17 @@ Join the Discord Server
 
 ## Follow us on Twitter!
 
->Step 1:
->
 
-Choose your favorite crypto ecosystem and token that you want to stake!
+`Twitter Link
 
->Step 2:
->
-
-Locate that token on the Latinum Finance website to double check the availability, network used, wallet address and required token send quantity.
-
->Step 3:
->
-
-Purchase a planet for your crypto ecosystem by sending the exact amount of tokens to the listed wallet address to be staked for passive income rewards!
-
-
-`*USE THE SAME WALLET ADDRESS YOU USED TO REGISTER YOUR ECOSYSTEM ON DISCORD*`
-
-`*MAKE SURE TO SEND YOUR TOKENS TO THE CORRECT WALLET ADDRESS USING THE RIGHT NETWORK! FUNDS SENT TO THE WRONG ADDRESS OR OVER THE WRONG NETWORK CAN NOT BE RECOVERED*`
-
-_*Orders recieved that differ from the amount total or do not match any registered wallet adresses will be sent back to the same address less the gas cost used*_
-
-`*All STAKED TOKENS CAN BE UNSTAKED AT ANY TIME BUT REQUIRE CERTAIN UNSTAKING TIME PERIODS*` 
-
-Find out more about unstaking your assets here: [Unstaking my Assests](./CosmosEcosystem) 
-
->Step 5:
+>To keep up with any important Latinum Finance News or Announcments. Be sure to Follow!
 >
 
 `View your Ecosystem and totals by going to latinumfinance.github.io/Your_Registered_ETH_Wallet_Address`
 
-## Unstaking your Ecosystem
+# Unstaking your Tokens
+
+`*All STAKED TOKENS CAN BE UNSTAKED AT ANY TIME BUT REQUIRE CERTAIN UNSTAKING TIME PERIODS*` 
 
 > Step 1:
 > 
@@ -87,7 +66,7 @@ Connect to the Discord Server
 >Step 2:
 >
 
-Click the `"Unstake a Ecosystem"` tab in Discord and send the requested information.(name, wallet address's, token to unstake etc.) 
+Click the `"Unstake my Crypto"` tab in Discord and send the requested information. Information is that which was collected from the user at time of purchase.(Registered Latinum Finance Wallet Name, The Registered E-Mail, Token to Unstake and a USDT Wallet Address) 
 
 >Step 2:
 >
@@ -98,11 +77,11 @@ Congratulations! The unstaking process has begun! Now just wait for your tokens 
 
 `ALL ASSETS HAVE DIFFERENT UNSTAKING WAIT PERIODS! WE ARE UNABLE TO EXPEDITE THIS PROCESS! YOU MUST WAIT THE FULL DURATION OF THE UNSTAKING WAIT PERIOD!` 
 
-You can check the status of your Unstaking period here: [Maybe I can ?](./CosmosEcosystem)
+You can check the status of your Unstaking period on your Latinum Finance Wallet URL: [Maybe I can ?](./CosmosEcosystem)
 
-## Find My Ecosystem
+## Find My Wallet
 
-View your Ecosystem and totals by going to latinumfinance.github.io/`Your_Registered_ETH_Wallet_Address`
+View your Ecosystem and totals by going to latinumfinance.github.io/`Your_Registered_Latinum Finance Wallet Name`
 
 [Sample Ecosystem](./0x1234567)
 
