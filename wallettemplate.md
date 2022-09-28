@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# <center>Latinum Vault
+# <center>Latinum Finance Sample Vault
 
 
 |        |   <center>Token:  | <center>Symbol:  | <center>Staked: | <center>Current USDT: | <center>APY: | <center>Unstaking Wait Period: | <center>APY Tier Boost: |
