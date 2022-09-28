@@ -81,8 +81,8 @@ You can check the status of your Unstaking period on your Latinum Finance Wallet
 
 ## Find My Wallet
 
-View your Ecosystem and totals by going to latinumfinance.github.io/`Your_Registered_Latinum Finance Wallet Name`
+View your wallet and totals by going to latinumfinance.github.io/`Your_Registered_Latinum Finance Wallet Name`
 
-[Sample Ecosystem](./0x1234567)
+[Sample Wallet](./wallettemplate)
 
 
