@@ -6,7 +6,7 @@ layout: default
 
 Latinum Finance allows you to earn passive income on your current cryptocurrency holdings by staking them. When you stake crypto, your assets go towards verifying transactions and  securing the network. To incentivize staking, the network generates rewards and pays them out to stakers. Staking is the best option for people looking to earn passive rewards on their crypto assets! More information about staking and rewards here: [Staking Rewards System](./CosmosEcosystem) 
 
-Often times the process to stake your crypto is a very confusing and complicated process.  You are required to transfer coins around multiple times, usually needing a different token first to be used to pay the fees for the transactions to obtain your token of choice.  All of this must be done and sent over the correct blockchain network otherwise if done incorrectly you risk losing all of your funds.  On top of that, most liquidity service and staking serivice providers are riddled with fees and confusing interest reward structures. Latinum Finance tries to simplify the entire staking process from the ground up. Using coinbase to perform our token transfers users never have to worry if they are sending their funds over the right network.  Everyone is provided with a URL they can use to track their funds but is also equipped with a spreadsheet powered by Microsoft Excel that breaks your staked balance and rewards down in a very detailed 
+
 
 # Stablecoins
 
@@ -29,27 +29,21 @@ Often times the process to stake your crypto is a very confusing and complicated
 
 # Compare us with others!
 
-Latinum Finance allows you to earn passive income on your current cryptocurrency holdings. When you stake crypto, your assets go towards verifying transactions
-and  securing the network. To incentivize staking, the network generates rewards and pays them out to stakers. Staking is the best option for customers looking
-to earn passive rewards on their crypto assets! More information about staking and rewards here: [Staking Rewards System](./CosmosEcosystem)  
+Often times the process to stake your crypto is a very confusing and complicated process.  You are required to transfer coins around multiple times, usually needing a different token first to be used to pay the fees for the transactions to obtain your token of choice.  All of this must be done and sent over the correct blockchain network otherwise if done incorrectly you risk losing all of your funds.  On top of that, most liquidity service and staking serivice providers are riddled with fees and confusing interest reward structures. Latinum Finance tries to simplify the entire staking process from the ground up. Using coinbase to perform our token transfers users never have to worry if they are sending their funds over the right network.  Everyone is provided with a URL(ex. LatinumFinance.github.io/ Wallet_Name) they can use to track their Staked funds down to the last penny. Utilizing Microsoft Excel a spreadsheet is embedded into each wallet URL updated with the users current holdings.
 
-## Registering a Ecosystem
+## Join us on Discord!
 
-> Step 1:
-> 
 
 Join the Discord Server
 
 `Discord Server : 987987987`
 
->Step 2:
+>Come hang out with other crypto stakers!
 >
-
-Click the `"Make a Ecosystem"` tab in Discord and send the requested information.(name of ecosystem, wallet address's, etc...) 
-Congratulations! You have just created your Latinum Finance Ecosystem! 
+ 
 
 
-## Building your Ecosystem
+## Follow us on Twitter!
 
 >Step 1:
 >
