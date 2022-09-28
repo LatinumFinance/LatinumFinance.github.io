@@ -12,6 +12,21 @@ layout: default
 ![Polygon Ecosystem](https://latinumfinance.github.io/assets/images/polygonicon.png)[Polygon Ecosystem](./CosmosEcosystem)
 
 
+![USDC Pairs](https://latinumfinance.github.io/assets/images/usdciconlogo.png)[USDT Ecosystem](./usdtecosystem)
+
+
+![USDT Ecosystem](https://latinumfinance.github.io/assets/images/daiiconlogo.png)[USDT Ecosystem](./usdtecosystem)
+
+
+![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png)[Cosmos Ecosystem](./CosmosEcosystem) 
+
+
+![Binance Ecosystem](https://latinumfinance.github.io/assets/images/binanceecosystemicon2.png)[Binance Ecosystem](./CosmosEcosystem)
+
+
+![Polygon Ecosystem](https://latinumfinance.github.io/assets/images/polygonicon.png)[Polygon Ecosystem](./CosmosEcosystem)
+
+
 # Latinum Finance
 
 Latinum Finance allows you to earn passive income on your current cryptocurrency holdings. When you stake crypto, your assets go towards verifying transactions
