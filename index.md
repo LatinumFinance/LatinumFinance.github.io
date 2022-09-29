@@ -31,6 +31,8 @@ Latinum Finance allows you to earn passive income on your current cryptocurrency
 
 # Compare us with others!
 
+<center>![Latinum Finance Logo](https://latinumfinance.github.io/assets/images/LatinumFinanceLogoDraft512x256.png)
+
 Often times the process to stake your crypto is a very confusing and complicated process.  You are required to transfer coins around multiple times, usually needing a different token first to be used to pay the fees for the transactions to obtain your token of choice.  All of this must be done and sent over the correct blockchain network otherwise if done incorrectly you risk losing all of your funds.  On top of that, most liquidity pool services and staking service providers are riddled with fees and confusing reward structures. Latinum Finance tries to simplify the entire staking process from the ground up. Using coinbase to perform our token transfers users never have to worry if they are sending their funds over the right network or not.  Everyone is provided with a URL(ex. LatinumFinance.github.io/ Wallet_Name) they can use to track their Staked funds down to the last penny. Utilizing Microsoft Excel a spreadsheet is embedded into each wallet URL updated with the users current holdings and predicted future earnings.
 
 ## Join us on Discord!
