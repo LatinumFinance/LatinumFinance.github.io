@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+
+
+  |        |   <center>Token:  | <center>Symbol:  | <center>Staked: | <center>Current USDC: | <center>APY: | <center>Unstaking Wait Period: | <center>Reward Tier Boost(0-3): |
+|:-------|:----------|:---------|:---------------|:-----|:-----|:-----|:------------------|
+| ![usdt icon](https://latinumfinance.github.io/assets/images/usdciconlogo.png) | <center>USDCoin | <center>USDC | <center>100 | <center>See Below | <center>4% | <center>21 Days | <center>0 |
+
+
+|        |   <center>Token:  | <center>Symbol:  | <center>Staked: | <center>Current DAI | <center>APY: | <center>Unstaking Wait Period: | <center>Reward Tier Boost(0-3): |
+|:-------|:----------|:---------|:---------------|:-----|:-----|:-----|:-----------------|
+| ![usdt icon](https://latinumfinance.github.io/assets/images/daiiconlogo.png) | <center>Dai | <center>DAI | <center>100 | <center>See Below | <center>4% | <center>21 Days | <center>0 |
+
+
+# <center>APY Tier Boosts
+
+#### Tier 0
+
+|     <center>USD    | <center>APY: | <center>Reward Tier: |
+|:-----------|:---|:--------------|
+| <center>100$ - 1,000$ | <center>1% | <center>0 |
+
+#### Tier 1
+
+|     <center>USD    | <center>APY: | <center>Reward Tier: |
+|:-----------|:---|:--------------|
+| <center>1,001$ - 5,000$ | <center>2% | <center>1 |
+
+#### Tier 2
+
+|     <center>USD    | <center>APY: | <center>Reward Tier: |
+|:-----------|:---|:--------------|
+| <center>5,001$ - 10,000$ | <center>3% | <center>2 |
+
+#### Tier 3
+
+|     <center>USD    | <center>APY: | <center>Reward Tier: |
+|:-----------|:---|:--------------|
+| <center>10,001$+ | <center>4% | <center>3 |
