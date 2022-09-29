@@ -5,11 +5,11 @@ layout: default
 # <center>Latinum Finance Sample Vault
 
 
-|        |   <center>Token:  | <center>Symbol:  | <center>Staked: | <center>Current USDT: | <center>APY: | <center>Unstaking Wait Period: | <center>APY Tier Boost: |
+|        |   <center>Token:  | <center>Symbol:  | <center>Staked: | <center>Current USDT: | <center>APY: | <center>Unstaking Wait Period: |
 |:-------|:----------|:---------|:---------------|:-----|:-----|:-----|:-------------------|
-| ![usdt icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png) | <center>Tether | <center>USDT | <center>100 | <center>See Below | <center>3% | <center>21 Days | <center>0 |
-| ![usdt icon](https://latinumfinance.github.io/assets/images/usdciconlogo.png) | <center>USDCoin | <center>USDC | <center>100 | <center>See Below | <center>3% | <center>21 Days | <center>0 |
-| ![usdt icon](https://latinumfinance.github.io/assets/images/daiiconlogo.png) | <center>Dai | <center>DAI | <center>100 | <center>See Below | <center>3% | <center>21 Days | <center>0 |
+| ![usdt icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png) | <center>Tether | <center>USDT | <center>100 | <center>See Below | <center>3% | <center>21 Days |
+| ![usdt icon](https://latinumfinance.github.io/assets/images/usdciconlogo.png) | <center>USDCoin | <center>USDC | <center>100 | <center>See Below | <center>3% | <center>21 Days |
+| ![usdt icon](https://latinumfinance.github.io/assets/images/daiiconlogo.png) | <center>Dai | <center>DAI | <center>100 | <center>See Below | <center>3% | <center>21 Days |
 
 
 
