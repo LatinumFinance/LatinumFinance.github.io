@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Latinum Finance - The Highest Stablecoin APY
-![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdtapyadvdraft400x400.png)![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdcapyadvdraft400x400.png)![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/daiapyadvdraft400x400.png)
+![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdt3apyadv300x300.png)![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdc3apyadv300x300.png)![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/dai3apyadv300x300.png)
 ## Start Earning Passive Income Today! 
 
 
