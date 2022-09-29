@@ -3,8 +3,8 @@ layout: default
 ---
 
 # Latinum Finance - The Highest Stablecoin APY
-![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdtapyadvdraft2.png)![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdcapyadvdraft400x400.png)
-## Start Earning Passive Income Today! ![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdtapyadvdraft2.png)![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdcapyadvdraft400x400.png)
+![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdtapyadvdraft400x400.png)![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdcapyadvdraft400x400.png)![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/daiapyadvdraft400x400.png)
+## Start Earning Passive Income Today! 
 
 
 Latinum Finance allows you to earn passive income on your current cryptocurrency holdings by staking them and recompounding the interest reward every 7 days. When you stake crypto, your assets go towards verifying transactions and  securing the network. To incentivize staking, the network generates rewards and pays them out to stakers. Staking is the best option for people looking to earn passive rewards on their crypto assets! More information about staking and rewards here: [Staking Rewards System](./CosmosEcosystem) 
