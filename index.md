@@ -4,6 +4,7 @@ layout: default
 
 # Latinum Finance - The Highest Stablecoin APY
 ## Start Earning Passive Income Today!
+
 ![APY ADV](https://latinumfinance.github.io/assets/images/3%apyadvdraft1.png)
 
 Latinum Finance allows you to earn passive income on your current cryptocurrency holdings by staking them and recompounding the interest reward every 7 days. When you stake crypto, your assets go towards verifying transactions and  securing the network. To incentivize staking, the network generates rewards and pays them out to stakers. Staking is the best option for people looking to earn passive rewards on their crypto assets! More information about staking and rewards here: [Staking Rewards System](./CosmosEcosystem) 
