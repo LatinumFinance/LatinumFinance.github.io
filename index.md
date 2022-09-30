@@ -10,7 +10,7 @@ layout: default
 Latinum Finance allows you to earn passive income on your current cryptocurrency holdings by staking them and auto recompounding the interest reward every 7 days to generate maximum yield. When you stake crypto, your assets go towards verifying transactions and securing the network. To incentivize staking, the network generates rewards and pays them out to stakers. Staking is the best option for people looking to earn passive rewards on their crypto assets! More information about staking and rewards here: [Staking Rewards System](./CosmosEcosystem) 
 
 
-Then, whenever you are ready, you can unstake your usdt balance to get your staked balance plus the interest you accrued over the duration of the staked period. Payouts are done by converting your current USDT balance into Litecoin(LTC) and sending it to your LTC wallet address of choice. Litecoin offers extermely low transaction fees and is accepted by nearly all crypto exchanges world wide making the coin very easy to use, transfer and swap making it perfect for our payouts.  
+Then, whenever you are ready, you can unstake your usdt balance to get your staked balance plus the interest you gained over the duration of the staked period. Payouts are done by converting your current USDT balance into Litecoin(LTC) and sending it to your LTC wallet address of choice. Litecoin offers extermely low transaction fees and is accepted by nearly all crypto exchanges world wide making the coin very easy to use, transfer and swap making it perfect for our payouts.  
 
 
 
@@ -67,7 +67,7 @@ Connect to the Discord Server
 >Step 2:
 >
 
-Click the `"Unstake my Crypto"` tab in Discord and send the requested information. Information was collected from user at the time of purchase.(Registered Latinum Finance Wallet Name, The Registered E-Mail, Token to Unstake and a USDT Wallet Address) 
+Click the `"Unstake my Crypto"` tab in Discord and send the requested information. Information was collected from user at the time of purchase.(Registered Latinum Finance Wallet Name, The Registered E-Mail, LTC Wallet Address) 
 
 >Step 2:
 >
