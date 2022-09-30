@@ -7,7 +7,10 @@ layout: default
 ## Start Earning Passive Income Today! 
 
 
-Latinum Finance allows you to earn passive income on your current cryptocurrency holdings by staking them and recompounding the interest reward every 7 days. When you stake crypto, your assets go towards verifying transactions and  securing the network. To incentivize staking, the network generates rewards and pays them out to stakers. Staking is the best option for people looking to earn passive rewards on their crypto assets! More information about staking and rewards here: [Staking Rewards System](./CosmosEcosystem) 
+Latinum Finance allows you to earn passive income on your current cryptocurrency holdings by staking them and auto recompounding the interest reward every 7 days to generate maximum yield. When you stake crypto, your assets go towards verifying transactions and securing the network. To incentivize staking, the network generates rewards and pays them out to stakers. Staking is the best option for people looking to earn passive rewards on their crypto assets! More information about staking and rewards here: [Staking Rewards System](./CosmosEcosystem) 
+
+
+Then, whenever you are ready, you can unstake your usdt balance to get your staked balance plus the interest you accrued over the duration of the staked period. Payouts are done by converting your current USDT balance into Litecoin(LTC) and sending it to your LTC wallet address of choice. Litecoin offers extermely low transaction fees and is accepted by nearly all crypto exchanges world wide making the coin very easy to use, transfer and swap making it perfect for our payouts.  
 
 
 
@@ -17,16 +20,10 @@ Latinum Finance allows you to earn passive income on your current cryptocurrency
 
 ![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdticonlogo.png)[Stake USDT](./usdt)
 
-#### USDC
-
-![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdciconlogo.png)[Stake USDC](./usdc)
-
-#### DAI
-![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/daiiconlogo.png)[Stake Dai](./dai)  
-
 
 > More coins coming soon!
 > 
+
 
 
 
