@@ -21,7 +21,7 @@ Then, whenever you are ready, you can unstake your usdt balance to get your stak
 ![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdticonlogo.png)[Stake USDT](./usdt)
 
 
-> Other supported crypto currencies can be converted conveniently at checkout!
+> Other supported crypto currencies can be used in place of USD or USDT at checkout!
 > 
 > Supported Cryptocurrencies: APE,BTC,BCH,DAI,DOGE,ETH,LTC,SHIB,USDC and USDT!
 
