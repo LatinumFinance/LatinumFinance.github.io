@@ -36,9 +36,9 @@ Often times the process to stake your crypto is a very confusing and complicated
 ## Join us on Discord!
 
 
-Join the Discord Server
+`Join the Discord Server`
 
-`Discord Server : [Latinum Finance Discord](https://discord.gg/jf6WptMu3d)`
+Discord Server : [Latinum Finance Discord](https://discord.gg/jf6WptMu3d)
 
 >Come hang out with other crypto stakers!
 >
