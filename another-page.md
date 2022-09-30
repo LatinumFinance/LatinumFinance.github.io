@@ -2,6 +2,9 @@
 layout: default
 ---
 
+
+![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdc3apyadv300x300.png)![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/dai3apyadv300x300.png)
+
         
 ![Cosmos Ecosystem](https://latinumfinance.github.io/assets/images/cosmosecosystemicon2.png)[Cosmos Ecosystem](./CosmosEcosystem) 
 
