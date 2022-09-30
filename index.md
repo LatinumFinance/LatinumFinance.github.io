@@ -35,10 +35,9 @@ Often times the process to stake your crypto is a very confusing and complicated
 
 ## Join us on Discord!
 
+![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/discordnamelogo.png)
 
-`Join the Discord Server`
-
-![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/discordnamelogo.png) : [Latinum Finance Discord](https://discord.gg/jf6WptMu3d)
+[Latinum Finance Discord](https://discord.gg/jf6WptMu3d)
 
 >Come hang out with other crypto stakers!
 >
