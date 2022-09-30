@@ -39,8 +39,9 @@ Often times the process to stake your crypto is a very confusing and complicated
 
 [Latinum Finance Discord](https://discord.gg/jf6WptMu3d)
 
->Come hang out with other crypto stakers!
+>Come find out more about Latinum Finance or just hang out with other crypto enthusiasts and stakers!
 >
+>ALL are welcome!
  
 
 
