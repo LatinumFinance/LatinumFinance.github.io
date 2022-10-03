@@ -72,9 +72,9 @@ Often times the process to stake your crypto is a very confusing and complicated
 >
 
 
-# Unstaking your Tokens
+# Unstaking your USDT
 
-`*All USDT CAN BE UNSTAKED AT ANY TIME BUT REQUIRE UNSTAKING WAIT PERIODS*` 
+`*All USDT CAN BE UNSTAKED AT ANY TIME BUT REQUIRES A 21 DAY UNSTAKING WAIT PERIOD*` 
 
 > Step 1:
 > 
