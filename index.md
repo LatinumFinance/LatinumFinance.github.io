@@ -45,40 +45,31 @@ Often times the process to stake your crypto is a very confusing and complicated
  
 
 
-## Follow us on Twitter!
-
-
-`Twitter Link
-
->To keep up with any important Latinum Finance News or Announcments. Be sure to Follow!
->
-
-
 # Unstaking your Tokens
 
-`*All STAKED TOKENS CAN BE UNSTAKED AT ANY TIME BUT REQUIRE CERTAIN UNSTAKING TIME PERIODS*` 
+`*All USDT CAN BE UNSTAKED AT ANY TIME BUT REQUIRE UNSTAKING WAIT PERIODS*` 
 
 > Step 1:
 > 
 
-Connect to the Discord Server
-`Discord Server : 987987987`
+`Connect to the Discord Server`
+[Latinum Finance Discord](https://discord.gg/jf6WptMu3d)
 
 >Step 2:
 >
 
-Click the `"Unstake my Crypto"` tab in Discord and send the requested information. Information was collected from user at the time of purchase.(Registered Latinum Finance Wallet Name, The Registered E-Mail, LTC Wallet Address) 
+Click the `"Unstake my Crypto"` tab in Discord and send the requested information. (Registered Latinum Finance Wallet Name, The Registered E-Mail, LTC Wallet Address) 
 
->Step 2:
+>Step 3:
 >
 
-Congratulations! The unstaking process has begun! Now just wait for your tokens to arrive in your registered wallet once the unstaking process has completed.
+Congratulations! The unstaking process has begun! We will send your Litecoin to your provided LTC wallet address once the unstaking process is complete.
 
 **REMEMBER YOU MUST WAIT THE FULL DURATION OF THE UNSTAKING WAIT PERIOD!**
 
 `ALL ASSETS HAVE DIFFERENT UNSTAKING WAIT PERIODS! WE ARE UNABLE TO EXPEDITE THIS PROCESS! YOU MUST WAIT THE FULL DURATION OF THE UNSTAKING WAIT PERIOD!` 
 
-You can check the status of your Unstaking period on your Latinum Finance Wallet URL: [Maybe I can ?](./CosmosEcosystem)
+You can check the status of your Unstaking wait period on your Latinum Finance Wallet.
 
 ## Find My Wallet
 
