@@ -29,7 +29,7 @@ Then, whenever you are ready, you can unstake your usdt balance to get your stak
 
 # Latinum Finance Mission #1!
 ### Tether Rocket Mission
-![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdtrocketmission.png)
+![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdtrocketmissiondraft1.png)
 
 # Tether Rocket Mission Status
 Current Stage : `Stage 1 : Launch`
@@ -39,7 +39,6 @@ Progress : `16,589 USDT of 1,000,000`
 USDT tell Stage 2: `983,411`
 
 # Latinum Finance Mission #2!
-### USD Coin Rocket Mission
 
 >Next mission begins when the Tether Rocket reaches orbit!
 >
