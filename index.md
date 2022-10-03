@@ -28,7 +28,7 @@ Then, whenever you are ready, you can unstake your usdt balance to get your stak
 
 
 # Latinum Finance Mission #1!
-### Tether Rocket Mission
+
 ![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdtrocketmissiondraft2.png)
 
 # Tether Rocket Mission Status
