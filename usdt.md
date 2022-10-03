@@ -24,11 +24,9 @@ Tether is the first stablecoin to be created and it is the most popular stableco
 
   
 
-> Stake at your own risk. Do your own research before Staking.
+> Stake at your own risk. Always do your own research before Staking.
 >
 > Staking stablecoins like Tether(USDT) is much safer then staking any other non US Dollar pegged asset.
->
-> Find out more about impermanent loss and the risks to staking here: <a>= href="https://academy.binance.com/en/articles/impermanent-loss-explained" Staking Risks </a>
 >
 
 
