@@ -34,6 +34,8 @@ Then, whenever you are ready, you can unstake your usdt balance to get your stak
 # Tether Rocket Mission Status
 Current Stage : `Stage 1 : Launch`
 
+Current APY: `3%`
+
 Progress : `16,589 USDT of 1,000,000`
 
 USDT tell Stage 2: `983,411`
