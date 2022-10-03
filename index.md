@@ -27,6 +27,14 @@ Then, whenever you are ready, you can unstake your usdt balance to get your stak
 > Supported Cryptocurrencies: APE,BTC,BCH,DAI,DOGE,ETH,LTC,SHIB,USDC and USDT!
 
 
+# Latinum Finance Mission #1!
+### Tether Rocket Mission
+![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdtrocketmission.png)
+
+# Tether Rocket Mission Status
+Current Stage : `Stage 1 : Launch`
+Progress : `16,589 USDT of 1,000,000
+USDT tell Stage 2: 983,411
 
 # Compare us with others!
 
