@@ -43,6 +43,15 @@ Often times the process to stake your crypto is a very confusing and complicated
 >
 >ALL are welcome!
  
+ 
+ ## Follow us on Twitter!
+ 
+ ![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/twitternamelogo.png)
+ 
+ [Latinum Finance Discord](https://twitter.com/LatinumFinance)
+ 
+>Be sure to follow us on Twitter to keep up with any new big announcments!
+>
 
 
 # Unstaking your Tokens
