@@ -79,7 +79,7 @@ Often times the process to stake your crypto is a very confusing and complicated
 > Step 1:
 > 
 
-`Connect to the Discord Server`
+Connect to the Discord Server
 
 [Latinum Finance Discord](https://discord.gg/jf6WptMu3d)
 
