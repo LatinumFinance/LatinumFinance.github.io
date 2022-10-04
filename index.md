@@ -86,7 +86,7 @@ Connect to the Discord Server
 >Step 2:
 >
 
-Click the `"Unstake my Crypto"` tab in Discord and send the requested information. (Registered Latinum Finance Wallet Name, The Registered E-Mail, LTC Wallet Address) 
+Click the `"Unstake my Crypto"` tab in Discord and send the requested information. (Registered Latinum Finance Wallet Name, The Registered E-Mail, Litecoin Wallet Address) 
 
 >Step 3:
 >
