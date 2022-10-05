@@ -49,12 +49,13 @@ USDT tell Stage 2: `983,411`
 
 ![Latinum Finance Logo](https://latinumfinance.github.io/assets/images/LatinumFinanceLogoDraft512x256.png)
 
-| Platform: | Token: | APY: |
+|  | Token: | APY: |
 |:----------|:-------|:-----|
 | Latinum Finance | USDT | 3% |
-| Binance.US | USDT | N/A |
 | Kucoin | USDT | 1% |
 | Coinbase | USDC | .15% |
+| Binance.US | USDT | N/A |
+
 
 ![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/lfcompoundinterestadvdraft2.png)
 
