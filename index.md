@@ -67,7 +67,6 @@ Often times the process to stake your crypto is a very confusing and complicated
 <img src="https://latinumfinance.github.io/assets/images/LatinumFinanceLogoDraft512x256.png">
   </p>
   
-![Latinum Finance Logo](https://latinumfinance.github.io/assets/images/LatinumFinanceLogoDraft512x256.png)
 
 ## Join us on Discord!
 
