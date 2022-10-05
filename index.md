@@ -54,7 +54,7 @@ USDT tell Stage 2: `983,411`
 
 |  | Token: | APY: |
 |:----------|:-------|:-----|
-| Latinum Finance | USDT | 3% |
+| <right>Latinum Finance | USDT | 3% |
 | Kucoin | USDT | 1% |
 | Coinbase | USDC | .15% |
 | Binance.US | USDT | N/A |
