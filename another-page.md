@@ -36,7 +36,8 @@ Latinum Finance allows you to earn passive income on your current cryptocurrency
 and  securing the network. To incentivize staking, the network generates rewards and pays them out to stakers. Staking is the best option for customers looking
 to earn passive rewards on their crypto assets! More information about staking and rewards here: [Staking Rewards System](./CosmosEcosystem)  
 
-
+| ![usdt icon](https://latinumfinance.github.io/assets/images/usdciconlogo.png) | <center>USDCoin | <center>USDC | <center>0 | <center>See Below | <center>3% | <center>21 Days |
+| ![usdt icon](https://latinumfinance.github.io/assets/images/daiiconlogo.png) | <center>Dai | <center>DAI | <center>0 | <center>See Below | <center>3% | <center>21 Days |
 
 #### USDC
 
