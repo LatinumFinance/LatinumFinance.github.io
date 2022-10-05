@@ -47,7 +47,9 @@ USDT tell Stage 2: `983,411`
 
 # Compare us with others!
 
-| Platform: | Token: | APY: |![Latinum Finance Logo](https://latinumfinance.github.io/assets/images/LatinumFinanceLogoDraft512x256.png)
+![Latinum Finance Logo](https://latinumfinance.github.io/assets/images/LatinumFinanceLogoDraft512x256.png)
+
+| Platform: | Token: | APY: |
 |:----------|:-------|:-----|
 | Latinum Finance | USDT | 3% |
 | Binance.US | USDT | N/A |
