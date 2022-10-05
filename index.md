@@ -3,9 +3,11 @@ layout: default
 ---
 
 # Latinum Finance - The Highest Stablecoin APY
+
 <p align="center">
 <img src="https://latinumfinance.github.io/assets/images/usdtapyadv400x400.png">
   </p>
+  
 ![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/usdt3apyadv600x300custom.png)
 
 ## Start Earning Passive Income Today! 
@@ -50,7 +52,6 @@ USDT tell Stage 2: `983,411`
 
 # Compare us with others!
 
-![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/lfcompoundinterestadvdraft2.png)
 
 |  | Token: | APY: |
 |:----------|:-------|:-----|
