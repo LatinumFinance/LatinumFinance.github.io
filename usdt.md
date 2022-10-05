@@ -25,8 +25,14 @@ Tether is the first stablecoin to be created and it is the most popular stableco
   
 
 > Stake at your own risk. Always do your own research before Staking.
->
+> 
 > Staking stablecoins like Tether(USDT) is much safer then staking any other non US Dollar pegged asset.
+>  
+>`*All USDT CAN BE UNSTAKED AT ANY TIME BUT REQUIRES A 21 DAY UNSTAKING WAIT PERIOD*`
+>
+>`*YOU WILL NOT CONTINUE TO EARN INTEREST DURING THE UNSTAKING WAIT PERIOD!!*`
+>
+>`WE ARE UNABLE TO EXPEDITE THIS PROCESS! YOU MUST WAIT THE FULL DURATION OF THE UNSTAKING WAIT PERIOD!`  
 >
 
 
