@@ -37,7 +37,7 @@ Tether is the first stablecoin to be created and it is the most popular stableco
 
 ![Stablecoin Pairs](https://latinumfinance.github.io/assets/images/lfcompoundinterestadvdraft2.png)
   
-<img align="center" src="https://latinumfinance.github.io/assets/images/lfcompoundinterestadvdraft2.png">
+<img align="right" src="https://latinumfinance.github.io/assets/images/lfcompoundinterestadvdraft2.png">
 
 [back](./)
 
