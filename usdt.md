@@ -15,7 +15,7 @@ Tether is the first stablecoin to be created and it is the most popular stableco
 
 | Amount: |    Tether:    |    Symbol:   |       APY:        |     Duration:     | <center>Unstaking Wait Period: | Stake Now Using![coinbase logo](https://latinumfinance.github.io/assets/images/coinbaselogo2.png)   |
 |:-------|:-------------|:-------------|:------------------|:-----------------|:-------------------------|:---------------------------------|
-| <center>100 |    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     USDT     |       3%         |     Flexible     |           <center>21 Days | <a class="buy-with-crypto" href="https://commerce.coinbase.com/checkout/f305e564-fb8d-41d3-9011-ad5d5f9e6c05"> Stake Crypto </a> <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807"></script>   |
+| <center>100 |    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     <center>USDT     |       <center>3%         |     <center>Flexible     |           <center>21 Days | <a class="buy-with-crypto" href="https://commerce.coinbase.com/checkout/f305e564-fb8d-41d3-9011-ad5d5f9e6c05"> Stake Crypto </a> <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807"></script>   |
   | <center>250 |    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     USDT     |       3%         |     Flexible     |           <center>21 Days | <a class="buy-with-crypto" href="https://commerce.coinbase.com/checkout/f305e564-fb8d-41d3-9011-ad5d5f9e6c05"> Stake Crypto </a> <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807"></script>   |
 
 
