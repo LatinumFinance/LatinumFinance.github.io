@@ -12,7 +12,7 @@ Tether is the first stablecoin to be created and it is the most popular stableco
 
 ![1usdt1usd](https://latinumfinance.github.io/assets/images/1usdt1usdupdate.png)![1usdt1usd](https://latinumfinance.github.io/assets/images/LatinumFinanceLogoDraft512x256.png)
 
-# <center>Stake USDT
+# <center>Stake USDT - Coinbase
 
 | Amount: |    Tether:    |    Symbol:   |       APY:        |     Duration:     | <center>Unstaking Wait Period: | <center>Coinbase Fee: | Stake Now Using![coinbase logo](https://latinumfinance.github.io/assets/images/coinbaselogo2.png)   |
 |:-------|:-------------|:-------------|:------------------|:-----------------|:-------------------------|:-----|:---------------------------------|
@@ -41,7 +41,11 @@ Tether is the first stablecoin to be created and it is the most popular stableco
 > [Sample Wallet](./WalletNameTest)
 >  
   
+# <center>Stake USDT - Traditional Wallet Address
   
+|    Tether:    |    Symbol:   |       APY:        |     Duration:     | <center>Unstaking Wait Period: | Network: | Wallet Address: |
+|:-------------|:-------------|:------------------|:-----------------|:-------------------------|:-----|:---------------------------------|
+|    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     <center>USDT     |       <center>3%         |     <center>Flexible     |           <center>21 Days | <center>ERC20 | 0x234234234234 |
   
   <p align="center">
 <img src="https://latinumfinance.github.io/assets/images/lfcompoundinterestadvdraft2.png">
