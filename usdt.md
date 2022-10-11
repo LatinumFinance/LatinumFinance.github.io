@@ -38,7 +38,7 @@ Tether is the first stablecoin to be created and it is the most popular stableco
 >
 >`WE ARE UNABLE TO EXPEDITE THIS PROCESS! YOU MUST WAIT THE FULL DURATION OF THE UNSTAKING WAIT PERIOD!`  
 >
-> [Sample Wallet](./wallettemplate)
+> [Sample Wallet](./WalletNameTest)
 >  
   
   
