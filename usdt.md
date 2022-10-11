@@ -12,9 +12,9 @@ Tether is the first stablecoin to be created and it is the most popular stableco
 
 ![1usdt1usd](https://latinumfinance.github.io/assets/images/1usdt1usdupdate.png)![1usdt1usd](https://latinumfinance.github.io/assets/images/LatinumFinanceLogoDraft512x256.png)
 
-# Stake USDT Using![coinbase logo](https://latinumfinance.github.io/assets/images/coinbaselogo2.png)
+# Stake USDT
 
-| Amount: |    Tether:    |    Symbol:   |       APY:        |     Duration:     | <center>Unstaking Wait Period: | <center>Coinbase Fee | Stake Now Using![coinbase logo](https://latinumfinance.github.io/assets/images/coinbaselogo2.png)   |
+| Amount: |    Tether:    |    Symbol:   |       APY:        |     Duration:     | <center>Unstaking Wait Period: | <center>Coinbase Fee: | Stake Now Using![coinbase logo](https://latinumfinance.github.io/assets/images/coinbaselogo2.png)   |
 |:-------|:-------------|:-------------|:------------------|:-----------------|:-------------------------|:-----|:---------------------------------|
 | <center>100 |    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     <center>USDT     |       <center>3%         |     <center>Flexible     |           <center>21 Days | <center>1% | <a class="buy-with-crypto" href="https://commerce.coinbase.com/checkout/f305e564-fb8d-41d3-9011-ad5d5f9e6c05"> Stake Crypto </a> <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807"></script>   |
   | <center>250 |    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     <center>USDT     |       <center>3%         |     <center>Flexible     |           <center>21 Days | <center>1% | <a class="buy-with-crypto" href="https://commerce.coinbase.com/checkout/f305e564-fb8d-41d3-9011-ad5d5f9e6c05"> Stake Crypto </a> <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807"></script>   |
@@ -40,6 +40,9 @@ Tether is the first stablecoin to be created and it is the most popular stableco
 >
 > [Sample Wallet](./wallettemplate)
 >  
+  
+  
+  
   <p align="center">
 <img src="https://latinumfinance.github.io/assets/images/lfcompoundinterestadvdraft2.png">
   </p>
