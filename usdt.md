@@ -45,7 +45,7 @@ Tether is the first stablecoin to be created and it is the most popular stableco
   
 |    Tether:    |    Symbol:   |       APY:        |     Duration:     | <center>Unstaking Wait Period: | Network: | Deposit Wallet Address: |
 |:-------------|:-------------|:------------------|:-----------------|:-------------------------|:-----|:---------------------------------|
-|    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     <center>USDT     |       <center>3%         |     <center>Flexible     |           <center>21 Days | <center>ERC20 | 0x234234234234 |
+|    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     <center>USDT     |       <center>3%         |     <center>Flexible     |           <center>21 Days | <center>ERC20 | 0xaeca551247ebdf56bfad7352f5f1b7624f3f03e4 |
   
 >Once the USDT Deposit is complete a web page will be created with the URL: `latinumfinance.github.io/"Your_Wallet_Address"` where users can track the progress of their staked USDT. 
 >
