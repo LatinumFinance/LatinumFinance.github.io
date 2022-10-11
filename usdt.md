@@ -43,9 +43,26 @@ Tether is the first stablecoin to be created and it is the most popular stableco
   
 # <center>Stake USDT - Traditional Wallet Address
   
-|    Tether:    |    Symbol:   |       APY:        |     Duration:     | <center>Unstaking Wait Period: | Network: | Wallet Address: |
+|    Tether:    |    Symbol:   |       APY:        |     Duration:     | <center>Unstaking Wait Period: | Network: | Deposit Wallet Address: |
 |:-------------|:-------------|:------------------|:-----------------|:-------------------------|:-----|:---------------------------------|
 |    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     <center>USDT     |       <center>3%         |     <center>Flexible     |           <center>21 Days | <center>ERC20 | 0x234234234234 |
+  
+>Once the USDT Deposit is complete a web page will be created with the URL: latinumfinance.github.io/"Your_Wallet_Address" where users can track the progress of their staked USDT. 
+>
+> Stake at your own risk. Always do your own research before Staking.
+> 
+> Staking stablecoins like Tether(USDT) is much safer then staking any other non US Dollar pegged asset.
+>  
+>`*All USDT CAN BE UNSTAKED AT ANY TIME BUT REQUIRES A 21 DAY UNSTAKING WAIT PERIOD*`
+>
+>`*YOU WILL NOT CONTINUE TO EARN INTEREST DURING THE UNSTAKING WAIT PERIOD!!*`
+>
+>`WE ARE UNABLE TO EXPEDITE THIS PROCESS! YOU MUST WAIT THE FULL DURATION OF THE UNSTAKING WAIT PERIOD!`  
+>
+> [Sample Wallet](./WalletNameTest)
+> 
+  
+  
   
   <p align="center">
 <img src="https://latinumfinance.github.io/assets/images/lfcompoundinterestadvdraft2.png">
