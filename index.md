@@ -94,6 +94,16 @@ Often times the process to stake your crypto is a very confusing and complicated
 `*All USDT CAN BE UNSTAKED AT ANY TIME BUT REQUIRES A 21 DAY UNSTAKING WAIT PERIOD*`
 
 `*YOU WILL NOT CONTINUE TO EARN INTEREST DURING THE UNSTAKING WAIT PERIOD!!*`
+  
+`WE ARE UNABLE TO EXPEDITE THIS PROCESS! YOU MUST WAIT THE FULL DURATION OF THE UNSTAKING WAIT PERIOD!` 
+  
+### Unstaking USDT - Coinbase Account
+  
+  [Unstake USDT Coinbase Account Guide](./unstaking_coinbase)
+  
+### Unstaking USDT - Traditional Wallet Address Account
+  
+  [Unstake USDT Traditional Wallet Address Account Guide](./unstaking_traditional_wallet)
 
 > Step 1:
 > 
