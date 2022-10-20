@@ -4,7 +4,7 @@ layout: default
 
 
 
-# Traditional Wallet Setup:
+# Traditional Wallet Setup: Using Discord Ticket Tool 
 
 > Step 1:
 > 
@@ -16,7 +16,8 @@ Connect to the Discord Server
 >Step 2:
 >
 
-Click the `"traditional-wallet-setup"` tab in Discord and send the requested information. (Registered Latinum Finance Wallet Address, E-Mail Address) 
+Click the `"traditional-wallet-setup"` tab in Discord and submit a ticket with the requested information. (Registered Latinum Finance Wallet Address, E-Mail Address) 
+
 `Email is used to confirm withdraw ONLY!`
 >Step 3:
 >
