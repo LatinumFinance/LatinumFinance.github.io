@@ -18,7 +18,7 @@ Connect to the Discord Server
 
 Click the `"traditional-wallet-setup"` tab in Discord and submit a ticket with the requested information. (Registered Latinum Finance Wallet Address, E-Mail Address) 
 
-`Email is used to confirm withdraw ONLY!`
+`Email is used to confirm unstaking ONLY!`
 >Step 3:
 >
 
