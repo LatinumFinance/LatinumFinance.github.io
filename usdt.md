@@ -45,7 +45,7 @@ Tether is the first stablecoin to be created and it is the most popular stableco
 
 |    Tether:    |    Symbol:   |       APY:        |     Duration:     | <center>Unstaking Wait Period: | Network: | Approx Fee: | Deposit Wallet Address: |
 |:-------------|:-------------|:------------------|:-----------------|:-------------------------|:-----|:----------|:-----------------------|
-|    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     <center>USDT     |       <center>3%         |     <center>Flexible     |           <center>21 Days | <center>ERC20 | 15$-20$ | 0xaeca551247ebdf56bfad7352f5f1b7624f3f03e4 |
+|    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     <center>USDT     |       <center>3%         |     <center>Flexible     |           <center>21 Days | <center>ERC20 | 25 USDT | 0xaeca551247ebdf56bfad7352f5f1b7624f3f03e4 |
   |    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     <center>USDT     |       <center>3%         |     <center>Flexible     |           <center>21 Days | <center>AVAX C-Chain | 5$ | 0x82e43c29053164782a6f0780fd8fdb6efb12158a |
   |    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     <center>USDT     |       <center>3%         |     <center>Flexible     |           <center>21 Days | <center>BSC BEP-20 | 3$ | 0x82e43c29053164782a6f0780fd8fdb6efb12158a |
   |    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     <center>USDT     |       <center>3%         |     <center>Flexible     |           <center>21 Days | <center>Polygon | 5$ | 0x82e43c29053164782a6f0780fd8fdb6efb12158a |
