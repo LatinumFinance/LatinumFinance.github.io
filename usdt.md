@@ -36,11 +36,11 @@ Tether is the first stablecoin to be created and it is the most popular stableco
   
 # <center>Stake USDT - Traditional Wallet Address
   
-  `*Attention* Set up a traditional Wallet Address Before Depositing!`
+  <center>`*Attention* Set up a traditional Wallet Address Before Depositing!`
   
-### Traditional Wallet Setup
+### <center>Traditional Wallet Setup
   
-  [Setup USDT Traditional Wallet Address Account Guide](./traditional_wallet_setup)
+  <center>[Setup USDT Traditional Wallet Address Account Guide](./traditional_wallet_setup)
 
 
 |    Tether:    |    Symbol:   |       APY:        |     Duration:     | <center>Unstaking Wait Period: | Network: | Deposit Wallet Address: |
