@@ -52,6 +52,8 @@ Tether is the first stablecoin to be created and it is the most popular stableco
   |    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     <center>USDT     |       <center>3%         |     <center>Flexible     |           <center>21 Days | <center>Tron | TWWzMJXBZyEsdQudd4cQBRrc5XWrmXtW48 |
 
 >Once your traditional wallet account is created a website will be created with the URL: `latinumfinance.github.io/"Your_Wallet_Address"` you are now ready to deposit your USDT into your wallet.
+>
+>Users should use the `same wallet address` to deposit as they did to setup their traditional wallet account.
 >  
 >Once the USDT Deposit is complete users can track the progress of their staked USDT on their wallet website. 
 >
