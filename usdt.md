@@ -21,17 +21,10 @@ Tether is the first stablecoin to be created and it is the most popular stableco
   | <center>500 |    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     <center>USDT     |       <center>3%         |     <center>Flexible     |           <center>21 Days | <center>1% | <a class="buy-with-crypto" href="https://commerce.coinbase.com/checkout/f305e564-fb8d-41d3-9011-ad5d5f9e6c05"> Stake Crypto </a> <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807"></script>   |
   | <center>1000 |    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     <center>USDT     |       <center>3%         |     <center>Flexible     |           <center>21 Days | <center>1% | <a class="buy-with-crypto" href="https://commerce.coinbase.com/checkout/f305e564-fb8d-41d3-9011-ad5d5f9e6c05"> Stake Crypto </a> <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807"></script>   |
 
-
-
-
-
-
-  
-
-> Stake at your own risk. Always do your own research before Staking.
-> 
-> Staking stablecoins like Tether(USDT) is much safer then staking any other non US Dollar pegged asset.
->  
+>A wallet address account is created during the coinbase checkout process a website will be created with the URL: `latinumfinance.github.io/"Your_Wallet_Name"` with the USDT preloaded into your wallet.
+>
+>Once the USDT Deposit is complete users can track the progress of their staked USDT on their wallet website. 
+>
 >`*All USDT CAN BE UNSTAKED AT ANY TIME BUT REQUIRES A 21 DAY UNSTAKING WAIT PERIOD*`
 >
 >`*YOU WILL NOT CONTINUE TO EARN INTEREST DURING THE UNSTAKING WAIT PERIOD!!*`
@@ -43,6 +36,13 @@ Tether is the first stablecoin to be created and it is the most popular stableco
   
 # <center>Stake USDT - Traditional Wallet Address
   
+  `*Attention* Set up a traditional Wallet Address Before Depositing!`
+  
+  #### Traditional Wallet Setup:
+  
+  [Setup USDT Traditional Wallet Address Account Guide](./traditional_wallet_setup)
+
+
 |    Tether:    |    Symbol:   |       APY:        |     Duration:     | <center>Unstaking Wait Period: | Network: | Deposit Wallet Address: |
 |:-------------|:-------------|:------------------|:-----------------|:-------------------------|:-----|:---------------------------------|
 |    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     <center>USDT     |       <center>3%         |     <center>Flexible     |           <center>21 Days | <center>ERC20 | 0xaeca551247ebdf56bfad7352f5f1b7624f3f03e4 |
@@ -50,13 +50,11 @@ Tether is the first stablecoin to be created and it is the most popular stableco
   |    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     <center>USDT     |       <center>3%         |     <center>Flexible     |           <center>21 Days | <center>BSC BEP-20 | 0x82e43c29053164782a6f0780fd8fdb6efb12158a |
   |    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     <center>USDT     |       <center>3%         |     <center>Flexible     |           <center>21 Days | <center>Polygon | 0x82e43c29053164782a6f0780fd8fdb6efb12158a |
   |    ![USDT Icon](https://latinumfinance.github.io/assets/images/usdticonlogo.png)    |     <center>USDT     |       <center>3%         |     <center>Flexible     |           <center>21 Days | <center>Tron | TWWzMJXBZyEsdQudd4cQBRrc5XWrmXtW48 |
-  
->Once the USDT Deposit is complete a web page will be created with the URL: `latinumfinance.github.io/"Your_Wallet_Address"` where users can track the progress of their staked USDT. 
->
-> Stake at your own risk. Always do your own research before Staking.
-> 
-> Staking stablecoins like Tether(USDT) is much safer then staking any other non US Dollar pegged asset.
+
+>Once your traditional wallet account is created a website will be created with the URL: `latinumfinance.github.io/"Your_Wallet_Address"` you are now ready to deposit your USDT into your wallet.
 >  
+>Once the USDT Deposit is complete users can track the progress of their staked USDT on their wallet website. 
+>
 >`*All USDT CAN BE UNSTAKED AT ANY TIME BUT REQUIRES A 21 DAY UNSTAKING WAIT PERIOD*`
 >
 >`*YOU WILL NOT CONTINUE TO EARN INTEREST DURING THE UNSTAKING WAIT PERIOD!!*`
